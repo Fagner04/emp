@@ -241,7 +241,7 @@
           "bbea030d-de91-4721-9ea1-9660f647bbd7": {
             "type": "image",
             "settings": {
-              "show_overlay": false,
+              "show_overlay": true,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
               "title": "",
@@ -757,6 +757,9 @@
           "1649913261818592e3-1",
           "1649913261818592e3-2"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
           "expand_items": false,
           "section_size": "medium",
@@ -809,12 +812,12 @@
     },
     "content_for_index": [
       "slideshow",
+      "1649913264519d35a7",
       "1649489657b78ca727",
       "16153539675ef431a7",
       "1649913261818592e3",
       "16153541158fc73818",
-      "16494890143053ae61",
-      "1649913264519d35a7"
+      "16494890143053ae61"
     ]
   },
   "presets": {
