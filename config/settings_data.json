@@ -539,8 +539,8 @@
           "collection": "frontpage",
           "title": "Ofertas da semana",
           "products_count": 10,
-          "layout": "horizontal",
-          "stack_desktop": false,
+          "layout": "vertical",
+          "stack_desktop": true,
           "show_quick_buy": false,
           "link_title": "Ver todos",
           "link_url": ""
