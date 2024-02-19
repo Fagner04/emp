@@ -536,12 +536,12 @@
       "16153539675ef431a7": {
         "type": "featured-collection",
         "settings": {
-          "collection": "frontpage",
-          "title": "Ofertas da semana",
+          "collection": "ultimas-novidades",
+          "title": "ULTIMAS NOVIDADES",
           "products_count": 10,
           "layout": "vertical",
-          "stack_desktop": true,
-          "show_quick_buy": false,
+          "stack_desktop": false,
+          "show_quick_buy": true,
           "link_title": "Ver todos",
           "link_url": ""
         }
