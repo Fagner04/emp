@@ -206,7 +206,7 @@
           "23b7e603-1746-4ba2-b8e6-5856acdfd7a5"
         ],
         "custom_css": [
-          "h2 {font-size :20px;}"
+          "h2 {font-size: 20px;}"
         ],
         "settings": {
           "mostrar_cnpj": true,
@@ -391,7 +391,7 @@
           "mostrar_maisvendido": true,
           "mostrar_addtocart": false,
           "btn-suspenso-flut": true,
-          "show_quantity_selector": false,
+          "show_quantity_selector": true,
           "title_variants_image": "color,colour,couleur,cor,cores,colore,farbe,색,色,カラー,färg,farve,opção,opções,quantidade,quantidades,dias,uso,tipo,tipos,modelo,modelos,material,materiais,unidade,unidades,combos,combo,pacote,pacotes",
           "mostrar_btn_wtspp": true,
           "background_whatsapp_btn": "#ffffff",
@@ -412,7 +412,7 @@
           "txt_um_contador": "#ffffff",
           "texto_contador": "(edite) Corra! Promo acaba em",
           "txt_dois_contador": "#ffce00",
-          "mostrar_cssryviu": true,
+          "mostrar_cssryviu": false,
           "mostrar_cssareviews": false,
           "mostrar_quantidadevendidos": true,
           "mostrar_icone": true,
@@ -420,16 +420,16 @@
           "mostrar_barra_de_entrega": false,
           "blackfriday": false,
           "selector_mode": "block",
-          "color_mode": "variant_image",
+          "color_mode": "block",
           "show_payment_button": false,
-          "image_size": "large",
+          "image_size": "medium",
           "enable_image_zoom": true,
           "enable_video_looping": false,
           "zoom_effect": "inside",
-          "carousel_effect": "fade",
+          "carousel_effect": "slide",
           "show_inventory_quantity": true,
           "low_inventory_threshold": 7,
-          "content_display_mode": "show_all_and_expand_description",
+          "content_display_mode": "collapse_all",
           "tab_page_1_handle": "",
           "tab_page_2_handle": "",
           "tab_page_3_handle": "",
