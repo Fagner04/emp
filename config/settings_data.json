@@ -552,7 +552,7 @@
           "collection": "frontpage",
           "title": "Acessórios + vendidos",
           "products_count": 10,
-          "layout": "vertical",
+          "layout": "horizontal",
           "stack_desktop": false,
           "show_quick_buy": false,
           "link_title": "Ver Todos",
