@@ -72,7 +72,7 @@
     "digizap": "Digite sua mensagem...",
     "base_text_font_size": 14,
     "heading_font": "poppins_n4",
-    "text_font": "archivo_n4",
+    "text_font": "poppins_n4",
     "underline_links": true,
     "animation_image_zoom": true,
     "search_mode": "product",
