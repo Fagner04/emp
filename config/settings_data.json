@@ -768,13 +768,13 @@
         "settings": {
           "collection": "frontpage",
           "products_count": 12,
-          "background1": "#ff6dab",
+          "background1": "#fe6f8a",
           "background2": "#bed0cd",
           "text_color": "#000000",
           "title": "Os produtos mais vendidos da sua coleção",
           "content": "Veja mais produtos relacionados clicando no botão abaixo",
           "button_background": "#ffffff",
-          "button_text_color": "#702dfa",
+          "button_text_color": "#000000",
           "button_text": "Ver mais produtos",
           "button_link": ""
         }
