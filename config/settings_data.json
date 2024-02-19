@@ -709,8 +709,8 @@
               "title": "Haylou LS02 Smartwatch",
               "content": "Por apenas R$ 219,90",
               "content_position": "top_left",
-              "button_background": "#807c7c",
-              "button_text_color": "#ffffff",
+              "button_background": "#ffffff",
+              "button_text_color": "#a7a5a5",
               "button_text": "Ver produto",
               "button_link": "shopify:\/\/products\/haylou-ls02-smartwatch"
             }
@@ -727,8 +727,8 @@
               "title": "Haylou RT2 (LS10)",
               "content": "Por apenas R$ 289,90",
               "content_position": "top_left",
-              "button_background": "#807c7c",
-              "button_text_color": "#ffffff",
+              "button_background": "#ffffff",
+              "button_text_color": "#a7a5a5",
               "button_text": "Ver produto",
               "button_link": "shopify:\/\/products\/haylou-rt2-ls10"
             }
@@ -745,8 +745,8 @@
               "title": "Haylou GST Smartwatch",
               "content": "Por apenas R$ 259,90",
               "content_position": "top_left",
-              "button_background": "#807c7c",
-              "button_text_color": "#ffffff",
+              "button_background": "#ffffff",
+              "button_text_color": "#a7a5a5",
               "button_text": "Ver produto",
               "button_link": "shopify:\/\/products\/smartwatch-dropmeta"
             }
