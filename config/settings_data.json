@@ -205,6 +205,9 @@
           "92231aec-75ae-4f44-bb61-3900d99ba87b",
           "23b7e603-1746-4ba2-b8e6-5856acdfd7a5"
         ],
+        "custom_css": [
+          "h2 {font-size :20px;}"
+        ],
         "settings": {
           "mostrar_cnpj": true,
           "cnpjaqui": "Digite seu CNPJ aqui",
