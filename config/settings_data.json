@@ -152,7 +152,7 @@
           "background1": "#00fc17",
           "background2": "#ff5f5f",
           "background3": "#9100ff",
-          "background4": "#0086ff",
+          "background4": "#00ff35",
           "show_locale_selector": false,
           "show_currency_selector": false,
           "navigation_menu": "",
@@ -206,7 +206,7 @@
           "23b7e603-1746-4ba2-b8e6-5856acdfd7a5"
         ],
         "custom_css": [
-          "h2 {font-size: 20px;}"
+
         ],
         "settings": {
           "mostrar_cnpj": true,
@@ -244,7 +244,7 @@
           "bbea030d-de91-4721-9ea1-9660f647bbd7": {
             "type": "image",
             "settings": {
-              "show_overlay": false,
+              "show_overlay": true,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
               "title": "",
@@ -259,7 +259,6 @@
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
             "type": "image",
             "settings": {
-              "mobile_image": "{{ shop.brand.logo }}",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -392,7 +391,7 @@
           "mostrar_maisvendido": true,
           "mostrar_addtocart": false,
           "btn-suspenso-flut": true,
-          "show_quantity_selector": true,
+          "show_quantity_selector": false,
           "title_variants_image": "color,colour,couleur,cor,cores,colore,farbe,색,色,カラー,färg,farve,opção,opções,quantidade,quantidades,dias,uso,tipo,tipos,modelo,modelos,material,materiais,unidade,unidades,combos,combo,pacote,pacotes",
           "mostrar_btn_wtspp": true,
           "background_whatsapp_btn": "#ffffff",
@@ -413,7 +412,7 @@
           "txt_um_contador": "#ffffff",
           "texto_contador": "(edite) Corra! Promo acaba em",
           "txt_dois_contador": "#ffce00",
-          "mostrar_cssryviu": false,
+          "mostrar_cssryviu": true,
           "mostrar_cssareviews": false,
           "mostrar_quantidadevendidos": true,
           "mostrar_icone": true,
@@ -421,16 +420,16 @@
           "mostrar_barra_de_entrega": false,
           "blackfriday": false,
           "selector_mode": "block",
-          "color_mode": "block",
+          "color_mode": "variant_image",
           "show_payment_button": false,
-          "image_size": "medium",
+          "image_size": "large",
           "enable_image_zoom": true,
           "enable_video_looping": false,
           "zoom_effect": "inside",
-          "carousel_effect": "slide",
+          "carousel_effect": "fade",
           "show_inventory_quantity": true,
           "low_inventory_threshold": 7,
-          "content_display_mode": "collapse_all",
+          "content_display_mode": "show_all_and_expand_description",
           "tab_page_1_handle": "",
           "tab_page_2_handle": "",
           "tab_page_3_handle": "",
@@ -540,7 +539,7 @@
       "16153539675ef431a7": {
         "type": "featured-collection",
         "custom_css": [
-          "h2 {font-size: 20px;}"
+          "h2 {font-size: 29px;}"
         ],
         "settings": {
           "collection": "ultimas-novidades",
