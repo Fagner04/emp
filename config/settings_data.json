@@ -49,8 +49,8 @@
     "product_price_position": "after_title",
     "product_image_size": "natural",
     "show_color_swatch": false,
-    "show_inventory_quantity": false,
-    "low_inventory_threshold": 0,
+    "show_inventory_quantity": true,
+    "low_inventory_threshold": 4,
     "show_reviews_badge": false,
     "ali_hunter_enable": true,
     "botao_direito_enable": true,
@@ -70,7 +70,7 @@
     "colorzap": "#702dfa",
     "chatzap": "Olá, estou aqui para te ajudar! (Editável)",
     "digizap": "Digite sua mensagem...",
-    "base_text_font_size": 14,
+    "base_text_font_size": 15,
     "heading_font": "poppins_n4",
     "text_font": "poppins_n4",
     "underline_links": true,
@@ -80,12 +80,12 @@
     "cart_empty_button_link": "shopify:\/\/collections\/all",
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
-    "social_facebook": "",
+    "social_facebook": "http:\/\/",
     "social_twitter": "",
-    "social_pinterest": "",
-    "social_instagram": "",
+    "social_pinterest": "http:\/\/",
+    "social_instagram": "http:\/\/",
     "social_vimeo": "",
-    "social_tumblr": "",
+    "social_tumblr": "http:\/\/",
     "social_youtube": "",
     "social_linkedin": "",
     "social_snapchat": "",
@@ -1516,5 +1516,10 @@
         "1542984882560"
       ]
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
   }
 }
