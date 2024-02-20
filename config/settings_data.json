@@ -260,6 +260,8 @@
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/looks_verao_1402_-_5.png",
+              "mobile_image": "shopify:\/\/shop_images\/IMG_6060.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
