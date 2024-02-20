@@ -132,7 +132,7 @@
           "7000eb54-1dfe-42a3-9fb7-577d915b94cb"
         ],
         "custom_css": [
-          "h2 {font-size :55px;}"
+          "h2 {font-size: 10px;}"
         ],
         "settings": {
           "enable_sticky_header": true,
