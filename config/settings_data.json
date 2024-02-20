@@ -244,8 +244,7 @@
           "bbea030d-de91-4721-9ea1-9660f647bbd7": {
             "type": "image",
             "settings": {
-              "mobile_image": "shopify:\/\/shop_images\/looks_verao_1402_-_5.png",
-              "show_overlay": true,
+              "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
               "title": "",
@@ -260,8 +259,7 @@
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/looks_verao_1402_-_5.png",
-              "mobile_image": "shopify:\/\/shop_images\/IMG_6060.png",
+              "mobile_image": "{{ shop.brand.logo }}",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
