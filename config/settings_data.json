@@ -543,7 +543,7 @@
       "16153539675ef431a7": {
         "type": "featured-collection",
         "custom_css": [
-          "h2 {font-size: 29px;}"
+          "h2 {font-size: 22px;}"
         ],
         "settings": {
           "collection": "ultimas-novidades",
@@ -779,7 +779,7 @@
       "1649913264519d35a7": {
         "type": "collection-with-image",
         "custom_css": [
-          "h2 {font-size: 29px;}"
+          "h2 {font-size: 27px;}"
         ],
         "settings": {
           "collection": "frontpage",
