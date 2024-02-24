@@ -424,7 +424,7 @@
           "mostrar_barra_de_entrega": true,
           "blackfriday": true,
           "selector_mode": "block",
-          "color_mode": "dropdown",
+          "color_mode": "block",
           "show_payment_button": false,
           "image_size": "medium",
           "enable_image_zoom": true,
