@@ -559,8 +559,8 @@
       "16153541158fc73818": {
         "type": "featured-collection",
         "settings": {
-          "collection": "frontpage",
-          "title": "Acessórios + vendidos",
+          "collection": "moda-praia",
+          "title": "Moda  Praia",
           "products_count": 10,
           "layout": "horizontal",
           "stack_desktop": false,
