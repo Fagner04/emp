@@ -430,7 +430,7 @@
           "enable_image_zoom": true,
           "enable_video_looping": false,
           "zoom_effect": "inside",
-          "carousel_effect": "fade",
+          "carousel_effect": "slide",
           "show_inventory_quantity": true,
           "low_inventory_threshold": 7,
           "content_display_mode": "show_all_and_expand_description",
