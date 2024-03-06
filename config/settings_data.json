@@ -59,7 +59,7 @@
     "mostrar_parcelascomo": "info_sem_juros",
     "porcentagem_de_juros": "1.2161",
     "qty_vezes": 6,
-    "addzap": true,
+    "addzap": false,
     "numberzap": "",
     "zap_icon_type": "original",
     "zap_icon": "shopify:\/\/shop_images\/Screenshot_1.png",
