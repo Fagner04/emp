@@ -249,7 +249,6 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
-              "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
               "show_overlay": true,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
