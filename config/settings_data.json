@@ -824,7 +824,7 @@
           "show_reviews_badge": false,
           "show_payment_button": false,
           "image_size": "large",
-          "enable_image_zoom": true,
+          "enable_image_zoom": false,
           "enable_video_looping": true,
           "zoom_effect": "inside",
           "carousel_effect": "slide",
