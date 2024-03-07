@@ -808,9 +808,12 @@
       },
       "featured_product_AdLfLe": {
         "type": "featured-product",
+        "custom_css": [
+          "h2 {font-size: 25px;}"
+        ],
         "settings": {
           "product": "cropped-manga-longa",
-          "title": "Featured product",
+          "title": "Produtos em destaque",
           "link_title": "View details",
           "link_url": "",
           "show_vendor": false,
