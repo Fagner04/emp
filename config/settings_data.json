@@ -245,25 +245,11 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
-          "bbea030d-de91-4721-9ea1-9660f647bbd7": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
-              "show_overlay": true,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": ""
-            }
-          },
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
+              "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -278,7 +264,6 @@
           }
         },
         "block_order": [
-          "bbea030d-de91-4721-9ea1-9660f647bbd7",
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d"
         ],
         "settings": {
