@@ -54,7 +54,7 @@
     "low_inventory_threshold": 4,
     "show_reviews_badge": false,
     "ali_hunter_enable": true,
-    "botao_direito_enable": true,
+    "botao_direito_enable": false,
     "show_parcelamento": true,
     "mostrar_parcelascomo": "info_sem_juros",
     "porcentagem_de_juros": "1.2161",
