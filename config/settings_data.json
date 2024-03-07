@@ -831,6 +831,41 @@
           "show_inventory_quantity": false,
           "low_inventory_threshold": 16
         }
+      },
+      "slideshow_VWtgiT": {
+        "type": "slideshow",
+        "blocks": {
+          "image_rtr93g": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.png",
+              "show_overlay": true,
+              "overlay_opacity": 47,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify:\/\/pages\/contact"
+            }
+          }
+        },
+        "block_order": [
+          "image_rtr93g"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+          "edge_to_edge": false,
+          "section_size": "preserve_ratio",
+          "carousel_effect": "slide",
+          "autoplay": true,
+          "cycle_speed": 4
+        }
       }
     },
     "content_for_index": [
@@ -842,6 +877,7 @@
       "16153541158fc73818",
       "featured_product_AdLfLe",
       "16494890143053ae61",
+      "slideshow_VWtgiT",
       "blog_posts_zYCHGr"
     ]
   },
