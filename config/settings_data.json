@@ -248,6 +248,7 @@
           "bbea030d-de91-4721-9ea1-9660f647bbd7": {
             "type": "image",
             "settings": {
+              "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
               "show_overlay": true,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
