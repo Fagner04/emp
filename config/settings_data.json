@@ -829,7 +829,7 @@
           "zoom_effect": "outside",
           "carousel_effect": "fade",
           "show_inventory_quantity": false,
-          "low_inventory_threshold": 0
+          "low_inventory_threshold": 16
         }
       }
     },
