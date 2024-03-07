@@ -141,6 +141,7 @@
           "show_track_order_header": true,
           "rastreiopage": "rastrear-pedido",
           "selector_style_search_icon": "style_1",
+          "logo": "shopify:\/\/shop_images\/Design_sem_nome.png",
           "logo_max_width": 180,
           "mobile_logo_max_width": 145,
           "barraimg_top": false,
@@ -629,6 +630,7 @@
       "16494890143053ae61": {
         "type": "image-with-text",
         "settings": {
+          "image": "shopify:\/\/shop_images\/Design_sem_nome_1.png",
           "image_position": "left",
           "image_width": 55,
           "title": "Pouco De Nós",
