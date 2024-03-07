@@ -248,6 +248,7 @@
           "bbea030d-de91-4721-9ea1-9660f647bbd7": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.png",
               "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX.gif",
               "show_overlay": true,
               "overlay_opacity": 30,
