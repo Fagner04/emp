@@ -838,8 +838,8 @@
           "image_rtr93g": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.png",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.png",
+              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul_1.png",
               "show_overlay": true,
               "overlay_opacity": 47,
               "text_color": "#ffffff",
