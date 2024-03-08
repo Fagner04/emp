@@ -701,16 +701,16 @@
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_10.png",
+              "image": "shopify:\/\/shop_images\/Design_sem_nome_14.png",
               "show_overlay": true,
               "overlay_opacity": 8,
               "stretch_image": true,
               "background": "#fe6f8a",
               "background2": "#fe6f8a",
-              "text_color": "#ffffff",
+              "text_color": "#e4e4e4",
               "title": "COLEÇÃO TRAINING",
               "content": "moda fitness",
-              "content_position": "top_left",
+              "content_position": "middle_left",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "Ver produto",
@@ -728,10 +728,10 @@
               "background2": "#fe6f8a",
               "text_color": "#e4e4e4",
               "title": "COLEÇÃO TRAINING",
-              "content": "Por apenas R$ 259,90",
-              "content_position": "top_left",
+              "content": "moda fitness",
+              "content_position": "middle_left",
               "button_background": "#ffffff",
-              "button_text_color": "#a7a5a5",
+              "button_text_color": "#1d1b1b",
               "button_text": "Ver produto",
               "button_link": "shopify:\/\/products\/smartwatch-dropmeta"
             }
