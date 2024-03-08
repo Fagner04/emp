@@ -717,24 +717,6 @@
               "button_link": "shopify:\/\/products\/haylou-ls02-smartwatch"
             }
           },
-          "1649913261818592e3-1": {
-            "type": "item",
-            "settings": {
-              "show_overlay": false,
-              "overlay_opacity": 50,
-              "stretch_image": false,
-              "background": "#f9768e",
-              "background2": "#fe6f8a",
-              "text_color": "#ffffff",
-              "title": "Haylou RT2 (LS10)",
-              "content": "Por apenas R$ 289,90",
-              "content_position": "top_left",
-              "button_background": "#ffffff",
-              "button_text_color": "#a7a5a5",
-              "button_text": "Ver produto",
-              "button_link": "shopify:\/\/products\/haylou-rt2-ls10"
-            }
-          },
           "1649913261818592e3-2": {
             "type": "item",
             "settings": {
@@ -753,12 +735,30 @@
               "button_text": "Ver produto",
               "button_link": "shopify:\/\/products\/smartwatch-dropmeta"
             }
+          },
+          "1649913261818592e3-1": {
+            "type": "item",
+            "settings": {
+              "show_overlay": false,
+              "overlay_opacity": 50,
+              "stretch_image": false,
+              "background": "#f9768e",
+              "background2": "#fe6f8a",
+              "text_color": "#ffffff",
+              "title": "Haylou RT2 (LS10)",
+              "content": "Por apenas R$ 289,90",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#a7a5a5",
+              "button_text": "Ver produto",
+              "button_link": "shopify:\/\/products\/haylou-rt2-ls10"
+            }
           }
         },
         "block_order": [
           "1649913261818592e3-0",
-          "1649913261818592e3-1",
-          "1649913261818592e3-2"
+          "1649913261818592e3-2",
+          "1649913261818592e3-1"
         ],
         "custom_css": [
 
