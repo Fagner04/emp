@@ -701,17 +701,18 @@
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
-              "show_overlay": false,
+              "image": "shopify:\/\/shop_images\/Design_sem_nome_6.png",
+              "show_overlay": true,
               "overlay_opacity": 50,
-              "stretch_image": false,
+              "stretch_image": true,
               "background": "#fe6f8a",
               "background2": "#fe6f8a",
               "text_color": "#ffffff",
-              "title": "Haylou LS02 Smartwatch",
-              "content": "Por apenas R$ 219,90",
+              "title": "COLEÇÃO TRAINING",
+              "content": "moda fitness",
               "content_position": "top_left",
               "button_background": "#ffffff",
-              "button_text_color": "#a7a5a5",
+              "button_text_color": "#000000",
               "button_text": "Ver produto",
               "button_link": "shopify:\/\/products\/haylou-ls02-smartwatch"
             }
