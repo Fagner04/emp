@@ -878,70 +878,6 @@
           "autoplay": true,
           "cycle_speed": 4
         }
-      },
-      "mosaic_pz9CLF": {
-        "type": "mosaic",
-        "blocks": {
-          "item_AKiA6d": {
-            "type": "item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ver_mais.gif",
-              "show_overlay": false,
-              "overlay_opacity": 27,
-              "background": "#f3f4f4",
-              "text_color": "#4f5558",
-              "title": "",
-              "content": "",
-              "content_position": "bottom_left",
-              "button_background": "#4f5558",
-              "button_text_color": "#f3f4f4",
-              "button_text": "Learn more",
-              "link": ""
-            }
-          },
-          "item_wanwRL": {
-            "type": "item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ver_mais.gif",
-              "show_overlay": false,
-              "overlay_opacity": 50,
-              "background": "#f3f4f4",
-              "text_color": "#4f5558",
-              "title": "",
-              "content": "",
-              "content_position": "top_left",
-              "button_background": "#4f5558",
-              "button_text_color": "#f3f4f4",
-              "button_text": "Learn more",
-              "link": ""
-            }
-          },
-          "item_KcicdQ": {
-            "type": "item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ver_mais.gif",
-              "show_overlay": false,
-              "overlay_opacity": 50,
-              "background": "#f3f4f4",
-              "text_color": "#4f5558",
-              "title": "",
-              "content": "",
-              "content_position": "top_center",
-              "button_background": "#4f5558",
-              "button_text_color": "#f3f4f4",
-              "button_text": "Learn moreBBB",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "item_AKiA6d",
-          "item_wanwRL",
-          "item_KcicdQ"
-        ],
-        "settings": {
-          "section_size": "medium"
-        }
       }
     },
     "content_for_index": [
@@ -953,8 +889,7 @@
       "16153541158fc73818",
       "slideshow_VWtgiT",
       "featured_product_AdLfLe",
-      "16494890143053ae61",
-      "mosaic_pz9CLF"
+      "16494890143053ae61"
     ]
   },
   "presets": {
