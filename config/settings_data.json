@@ -885,7 +885,7 @@
           "item_AKiA6d": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Designsemnome_3.png",
+              "image": "shopify:\/\/shop_images\/ver_mais.gif",
               "show_overlay": false,
               "overlay_opacity": 27,
               "background": "#f3f4f4",
@@ -902,7 +902,7 @@
           "item_wanwRL": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/a_vista_no_PIX_8251cfcf-26fa-42a8-b6ed-040828d55765.gif",
+              "image": "shopify:\/\/shop_images\/ver_mais.gif",
               "show_overlay": false,
               "overlay_opacity": 50,
               "background": "#f3f4f4",
@@ -919,16 +919,17 @@
           "item_KcicdQ": {
             "type": "item",
             "settings": {
+              "image": "shopify:\/\/shop_images\/ver_mais.gif",
               "show_overlay": false,
               "overlay_opacity": 50,
               "background": "#f3f4f4",
               "text_color": "#4f5558",
-              "title": "Your heading",
-              "content": "Tell more about your product, collection...",
-              "content_position": "top_left",
+              "title": "",
+              "content": "",
+              "content_position": "top_center",
               "button_background": "#4f5558",
               "button_text_color": "#f3f4f4",
-              "button_text": "Learn more",
+              "button_text": "Learn moreBBB",
               "link": ""
             }
           }
