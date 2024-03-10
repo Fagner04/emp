@@ -630,6 +630,7 @@
       "16494890143053ae61": {
         "type": "image-with-text",
         "settings": {
+          "image": "shopify:\/\/shop_images\/Design_sem_nome_16.png",
           "image_position": "left",
           "image_width": 55,
           "title": "Pouco De Nós",
