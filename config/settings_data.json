@@ -556,7 +556,7 @@
           "title": "ULTIMAS NOVIDADES",
           "products_count": 10,
           "layout": "vertical",
-          "stack_desktop": false,
+          "stack_desktop": true,
           "show_quick_buy": false,
           "link_title": "Ver todos",
           "link_url": ""
