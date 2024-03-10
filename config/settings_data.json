@@ -743,10 +743,10 @@
             "type": "item",
             "settings": {
               "image": "shopify:\/\/shop_images\/Design_sem_nome_15.png",
-              "show_overlay": true,
+              "show_overlay": false,
               "overlay_opacity": 50,
               "stretch_image": true,
-              "background": "#95e5ba",
+              "background": "#fe6f8a",
               "background2": "#fe6f8a",
               "text_color": "#625a5a",
               "title": "RESORT",
