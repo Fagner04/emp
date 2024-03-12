@@ -668,7 +668,7 @@
             "type": "collection",
             "settings": {
               "collection": "bechwear",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_15_4f9289cb-fd5d-422e-aea5-96c0225fa041.png"
+              "image": "shopify:\/\/shop_images\/Design_sem_nome_29_de625c42-21f0-4f5f-9b19-b5219add8a26.png"
             }
           },
           "1649489657b78ca727-5": {
@@ -692,6 +692,9 @@
           "0c56a93b-d66f-4823-ae91-bd01bb634a00",
           "1649489657b78ca727-5",
           "d5a5159b-779d-45d2-871b-4a5e622bb3b2"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
           "title": "",
