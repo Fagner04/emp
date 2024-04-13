@@ -6840,7 +6840,8 @@ select::-ms-expand {
   top: 100%;
   padding: 16px 0;
   list-style: none;
-  background: #fee76f;
+  background: #dbdad3;
+  border: 1px #4CAF50 solid;
   color: var(--text-color);
   border-radius: 0 0 3px 3px;
   white-space: nowrap;
