@@ -6841,7 +6841,6 @@ select::-ms-expand {
   padding: 16px 0;
   list-style: none;
   background: #fee76f;
-  background: var(--secondary-background);
   color: var(--text-color);
   border-radius: 0 0 3px 3px;
   white-space: nowrap;
