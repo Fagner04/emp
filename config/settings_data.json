@@ -148,7 +148,7 @@
           "bgimg": "#0fb930",
           "imgpc_max_height": 45,
           "imgmob_max_height": 85,
-          "linkimg": "https:\/\/dropmeta.com.br\/tema",
+          "linkimg": "",
           "mostrar_bar_info_shipping": true,
           "bg_bar_info_bold": "#702dfa",
           "bg_bar_info_normal": "#737b97",
@@ -167,7 +167,7 @@
           "navigation_email": "E-mail aqui",
           "show_condensed_search": false,
           "show_search_filter": false,
-          "search_menu": "",
+          "search_menu": "inicio",
           "show_search_menu_title": true
         }
       },
