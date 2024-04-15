@@ -140,7 +140,7 @@
           "box_shadow_header_active": true,
           "show_track_order_header": true,
           "rastreiopage": "rastrear-pedido",
-          "selector_style_search_icon": "style_1",
+          "selector_style_search_icon": "style_2",
           "logo_max_width": 180,
           "mobile_logo_max_width": 145,
           "barraimg_top": false,
@@ -264,6 +264,8 @@
           "image_rU3PHH": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Copia_de_a_vista_no_PIX_1920_x_720_px_1_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX_8251cfcf-26fa-42a8-b6ed-040828d55765.gif",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
