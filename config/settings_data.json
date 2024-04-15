@@ -712,10 +712,10 @@
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_37.png",
+              "image": "shopify:\/\/shop_images\/Design_sem_nome_41.png",
               "show_overlay": false,
-              "overlay_opacity": 8,
-              "stretch_image": false,
+              "overlay_opacity": 0,
+              "stretch_image": true,
               "background": "#d28e8e",
               "background2": "#e79ca3",
               "text_color": "#625a5a",
