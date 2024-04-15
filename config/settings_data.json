@@ -159,7 +159,7 @@
           "background4": "#00ff35",
           "show_locale_selector": false,
           "show_currency_selector": false,
-          "navigation_menu": "",
+          "navigation_menu": "inicio",
           "desktop_navigation_layout": "inline",
           "desktop_navigation_open_trigger": "hover",
           "show_navigation_social_media": true,
@@ -167,7 +167,7 @@
           "navigation_email": "E-mail aqui",
           "show_condensed_search": false,
           "show_search_filter": false,
-          "search_menu": "inicio",
+          "search_menu": "",
           "show_search_menu_title": true
         }
       },
