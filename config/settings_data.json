@@ -2,7 +2,7 @@
   "current": {
     "heading_color": "#000000",
     "text_color": "#000000",
-    "accent_color": "#535b61",
+    "accent_color": "#d28e8e",
     "link_color": "#00d864",
     "border_color": "#e7e7e7",
     "background": "#e9e9e9",
@@ -19,7 +19,7 @@
     "secondary_button_text_color": "#ffffff",
     "footer_background": "#d28e8e",
     "footer_text_color": "#000000",
-    "header_background": "#535b61",
+    "header_background": "#d28e8e",
     "header_text_color": "#ffffff",
     "header_light_text_color": "#131313",
     "color_icons_header": "#ffffff",
