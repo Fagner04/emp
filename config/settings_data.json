@@ -269,7 +269,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Copia_de_a_vista_no_PIX_1920_x_720_px_1_1.png",
-              "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX_8251cfcf-26fa-42a8-b6ed-040828d55765.gif",
+              "mobile_image": "shopify:\/\/shop_images\/a_vista_no_PIX_1.gif",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
