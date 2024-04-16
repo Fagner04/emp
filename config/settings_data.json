@@ -391,7 +391,7 @@
           "mostrar_frete1": true,
           "selector_mode_background_shipping": "mod_1",
           "titulofrete": "Entrega via Correios©",
-          "cordaborda": "#0fb930",
+          "cordaborda": "#f0c032",
           "mostrar_frete2": true,
           "mostrar_fretegratis": true,
           "mostrar_frete_full": true,
