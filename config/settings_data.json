@@ -216,9 +216,9 @@
         ],
         "settings": {
           "mostrar_cnpj": true,
-          "cnpjaqui": "Digite seu CNPJ aqui",
+          "cnpjaqui": "CNPJ :45.688.532\/0001-00",
           "mostrar_mensagemdeaviso": true,
-          "textdordp": "<p>(EDITÁVEL) Preços e condições de pagamento exclusivos para compras neste site oficial, podendo variar com o tempo da oferta. Evite comprar produtos mais baratos ou de outras lojas, pois você pode estar sendo enganado(a) por um golpista. Caso você compre os mesmos produtos em outras lojas,<strong> não nos responsabilizamos por quaisquer problemas.<\/strong><\/p>",
+          "textdordp": "",
           "mostrar_bandeiras_rdp": true,
           "txt_bandeiras": "Formas de pagamento",
           "bandeiras_type": "padrao",
