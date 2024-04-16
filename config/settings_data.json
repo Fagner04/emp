@@ -141,7 +141,7 @@
           "box_shadow_header_active": false,
           "show_track_order_header": true,
           "rastreiopage": "rastrear-pedido",
-          "selector_style_search_icon": "style_1",
+          "selector_style_search_icon": "style_2",
           "logo": "shopify:\/\/shop_images\/emporio-body-logo.png_1.webp",
           "logo_max_width": 140,
           "mobile_logo_max_width": 145,
