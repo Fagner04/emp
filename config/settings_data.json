@@ -138,7 +138,7 @@
         ],
         "settings": {
           "enable_sticky_header": true,
-          "box_shadow_header_active": true,
+          "box_shadow_header_active": false,
           "show_track_order_header": true,
           "rastreiopage": "rastrear-pedido",
           "selector_style_search_icon": "style_1",
@@ -888,6 +888,16 @@
           "carousel_effect": "slide",
           "autoplay": false,
           "cycle_speed": 3
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "products_per_row": "4",
+          "default_view_layout": "grid",
+          "show_quick_view": "list",
+          "show_quick_buy": "list",
+          "quick_links": ""
         }
       }
     },
