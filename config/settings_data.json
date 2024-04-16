@@ -827,6 +827,7 @@
       },
       "featured_product_AdLfLe": {
         "type": "featured-product",
+        "disabled": true,
         "custom_css": [
           "h2 {font-size: 25px;}"
         ],
