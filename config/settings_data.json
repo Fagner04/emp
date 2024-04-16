@@ -836,22 +836,22 @@
           "link_title": "View details",
           "link_url": "",
           "show_vendor": false,
-          "show_sku": true,
-          "show_share_buttons": true,
+          "show_sku": false,
+          "show_share_buttons": false,
           "show_description": true,
           "description_below_add_to_cart": false,
           "selector_mode": "block",
-          "color_mode": "color",
+          "color_mode": "dropdown",
           "show_quantity_selector": false,
           "show_reviews_badge": false,
           "show_payment_button": false,
-          "image_size": "large",
+          "image_size": "medium",
           "enable_image_zoom": false,
           "enable_video_looping": true,
           "zoom_effect": "inside",
           "carousel_effect": "slide",
           "show_inventory_quantity": false,
-          "low_inventory_threshold": 16
+          "low_inventory_threshold": 10
         }
       },
       "slideshow_VWtgiT": {
