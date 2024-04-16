@@ -785,7 +785,7 @@
           "h2 {font-size: 27px;}"
         ],
         "settings": {
-          "collection": "frontpage",
+          "collection": "ultimas-novidades",
           "products_count": 12,
           "background1": "#d28e8e",
           "background2": "#e7b1a9",
