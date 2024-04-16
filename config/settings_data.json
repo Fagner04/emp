@@ -542,6 +542,9 @@
           "text-with-icons-2",
           "text-with-icons-1"
         ],
+        "custom_css": [
+          "h4{font-size :1px;}"
+        ],
         "settings": {
           "show_section": true,
           "stack_mobile": false
