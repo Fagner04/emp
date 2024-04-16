@@ -10704,7 +10704,7 @@ iframe {
   margin-left: 20px;
   flex-shrink: 0;
   font-weight: var(--text-font-bolder-weight);
-  color: var(--accent-color);
+  color: #000000;
 }
 
 .section__action-link svg {
