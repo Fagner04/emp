@@ -986,7 +986,7 @@ html {
 }
 
 .link--accented {
-  color: var(--accent-color);
+  color: color: #F44336;
 }
 
 .link--accented:hover {
