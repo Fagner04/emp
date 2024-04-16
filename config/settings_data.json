@@ -287,11 +287,11 @@
           "image_rU3PHH"
         ],
         "settings": {
-          "edge_to_edge": true,
+          "edge_to_edge": false,
           "section_size": "preserve_ratio",
           "carousel_effect": "slide",
           "autoplay": true,
-          "cycle_speed": 5
+          "cycle_speed": 4
         }
       },
       "collection-list": {
