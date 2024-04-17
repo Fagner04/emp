@@ -9378,7 +9378,7 @@ select::-ms-expand {
   box-shadow: 0 0 0 1px #fb9494;
   border-color: #FF5722;
   background: rgba(var(--accent-color-rgb), 0.06);
-  color: #0000;
+  color: #000000;
 }
 
 .block-swatch--disabled .block-swatch__item-text {
