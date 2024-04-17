@@ -9375,10 +9375,10 @@ select::-ms-expand {
 }
 
 .block-swatch__radio:checked + .block-swatch__item {
-  box-shadow: 0 0 0 1px var(--accent-color);
-  border-color: var(--accent-color);
+  box-shadow: 0 0 0 1px #fb9494;
+  border-color: #FF5722;
   background: rgba(var(--accent-color-rgb), 0.06);
-  color: var(--accent-color);
+  color: #0000;
 }
 
 .block-swatch--disabled .block-swatch__item-text {
