@@ -8719,7 +8719,7 @@ select::-ms-expand {
   display: table;
   width: 100%;
   margin: -22px 0 6px 0;
-  border-spacing: 0 1px;
+  border-spacing: 0 14px;
 }
 
 .btn-primary-buy {
