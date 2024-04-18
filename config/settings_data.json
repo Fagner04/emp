@@ -94,7 +94,6 @@
     "social_fancy": "",
     "favicon": "shopify:\/\/shop_images\/FAV_SITE.png",
     "checkout_header_image": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo210x_40x_6b8e4909-3fbb-4178-8775-39900114df23.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
@@ -145,9 +144,10 @@
           "logo": "shopify:\/\/shop_images\/emporio-body-logo.png_1.webp",
           "logo_max_width": 140,
           "mobile_logo_max_width": 145,
-          "barraimg_top": false,
+          "barraimg_top": true,
           "barraimg_bottom": false,
-          "bgimg": "#0fb930",
+          "bgimg": "#f9eeec",
+          "imgpc": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa.png",
           "imgpc_max_height": 45,
           "imgmob_max_height": 85,
           "linkimg": "",
@@ -591,7 +591,7 @@
         "settings": {
           "show_section": false,
           "title": "Produtos que você viu recentemente",
-          "show_quick_buy": false
+          "show_quick_buy": true
         }
       },
       "cart-template": {
