@@ -148,7 +148,7 @@
           "barraimg_bottom": false,
           "bgimg": "#f9cac2",
           "imgpc": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_3.png",
-          "imgpc_max_height": 60,
+          "imgpc_max_height": 45,
           "imgmob_max_height": 85,
           "linkimg": "",
           "mostrar_bar_info_shipping": true,
