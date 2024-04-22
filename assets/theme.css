@@ -7572,7 +7572,7 @@ select::-ms-expand {
 .line-item__price {
   display: inline-block;
   font-weight: var(--text-font-bolder-weight);
-  color: var(--accent-color);
+  color: #795548;
 }
 
 .line-item__price--compare {
