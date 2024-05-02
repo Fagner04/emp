@@ -11450,8 +11450,10 @@ iframe {
 }
 
 .alert--success {
-  background: var(--success-background);
-  color: var(--success-color);
+  background: linear-gradient(45deg, #8b8989c7, #73676747);
+  border-radius: 15px;
+  color: #795548;
+  font-size: 17px;
 }
 
 .alert__ribbon {
