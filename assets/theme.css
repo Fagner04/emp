@@ -9375,7 +9375,7 @@ select::-ms-expand {
 }
 
 .block-swatch__radio:checked + .block-swatch__item {
-  box-shadow: 0 0 0 1px #fb9494;
+  box-shadow: 0 0 20px 0px #fb9494;
   border-color: #FF5722;
   background: rgba(var(--accent-color-rgb), 0.06);
   color: #000000;
