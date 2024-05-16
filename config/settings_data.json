@@ -798,7 +798,7 @@
           "title": "Só as selecionadas  os produtos mais vendidos",
           "content": "Veja mais produtos relacionados clicando no botão abaixo",
           "button_background": "#ffffff",
-          "button_text_color": "#b2b2b2",
+          "button_text_color": "#000000",
           "button_text": "Ver mais produtos",
           "button_link": ""
         }
