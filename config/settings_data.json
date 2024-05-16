@@ -795,10 +795,10 @@
           "background1": "#f9cac2",
           "background2": "#f9cac2",
           "text_color": "#000000",
-          "title": "Os produtos mais vendidos da suas coleção",
+          "title": "Só as selecionadas  os produtos mais vendidos",
           "content": "Veja mais produtos relacionados clicando no botão abaixo",
-          "button_background": "#ffffff",
-          "button_text_color": "#000000",
+          "button_background": "#383d3a",
+          "button_text_color": "#fcfcfc",
           "button_text": "Ver mais produtos",
           "button_link": ""
         }
