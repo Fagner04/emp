@@ -9485,7 +9485,7 @@ iframe {
     padding: 20px;
     min-width: 0;
     flex-shrink: 0;
-    background: linear-gradient(45deg, #ffcdcd40, #ffffff);
+    background: linear-gradient(45deg, #ffffff40, #ffffff);
     white-space: normal;
     transform: scale(.95);
     border-radius: calc(var(--border-radius-theme) + 8px) !important;
