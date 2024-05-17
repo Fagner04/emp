@@ -647,6 +647,13 @@
       "1649489657b78ca727": {
         "type": "collection-list",
         "blocks": {
+          "1649489657b78ca727-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "london",
+              "image": "shopify:\/\/shop_images\/Design_sem_nome_45.png"
+            }
+          },
           "0c56a93b-d66f-4823-ae91-bd01bb634a00": {
             "type": "collection",
             "settings": {
@@ -668,13 +675,6 @@
               "image": "shopify:\/\/shop_images\/Design_sem_nome_47.png"
             }
           },
-          "1649489657b78ca727-4": {
-            "type": "collection",
-            "settings": {
-              "collection": "london",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_45.png"
-            }
-          },
           "1649489657b78ca727-0": {
             "type": "collection",
             "settings": {
@@ -690,10 +690,10 @@
           }
         },
         "block_order": [
+          "1649489657b78ca727-4",
           "0c56a93b-d66f-4823-ae91-bd01bb634a00",
           "d5a5159b-779d-45d2-871b-4a5e622bb3b2",
           "1649489657b78ca727-1",
-          "1649489657b78ca727-4",
           "1649489657b78ca727-0",
           "1649489657b78ca727-5"
         ],
