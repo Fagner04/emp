@@ -684,6 +684,7 @@
           },
           "1649489657b78ca727-5": {
             "type": "collection",
+            "disabled": true,
             "settings": {
               "collection": "calcas"
             }
