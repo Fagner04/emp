@@ -481,6 +481,7 @@
         "blocks": {
           "2b3dee75-c47a-449e-a21f-1d3ef0366386": {
             "type": "exit",
+            "disabled": true,
             "settings": {
               "show_only_for_visitors": false,
               "show_only_once": true,
