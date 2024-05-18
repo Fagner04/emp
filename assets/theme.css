@@ -27,7 +27,7 @@ html {
 } 
 body {
   margin: 0;
-  zoom: 90%;
+  zoom: 99%;
 }
 
 @media (max-width: 640px) {
