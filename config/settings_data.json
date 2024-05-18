@@ -481,13 +481,12 @@
         "blocks": {
           "2b3dee75-c47a-449e-a21f-1d3ef0366386": {
             "type": "exit",
-            "disabled": true,
             "settings": {
               "show_only_for_visitors": true,
               "show_only_once": false,
-              "title": "Resgate",
-              "subheading": "no seu próximo pedido + ofertas exclusivas",
-              "show_newsletter": true,
+              "title": "CUPOM DE PRIMEIRA COMPRA!",
+              "subheading": "EMPORIO10",
+              "show_newsletter": false,
               "button_text": "Pegar 15% de desconto",
               "success_message": "Em breve você receberá um e-mail contendo seu cupom de desconto!",
               "close_message": "Não, obrigado, prefiro pagar mais"
