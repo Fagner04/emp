@@ -483,7 +483,7 @@
             "type": "exit",
             "settings": {
               "show_only_for_visitors": true,
-              "show_only_once": true,
+              "show_only_once": false,
               "title": "CUPOM DE PRIMEIRA COMPRA!",
               "subheading": "EMPORIO10",
               "show_newsletter": false,
