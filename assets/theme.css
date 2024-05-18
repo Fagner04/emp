@@ -9593,7 +9593,7 @@ iframe {
 }
 
 .product-item__title {
-  margin-bottom: 25px;
+  margin-bottom: 2px;
   text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 2;
