@@ -390,7 +390,7 @@
       "product-template": {
         "type": "product-template",
         "settings": {
-          "mostrar_frete1": true,
+          "mostrar_frete1": false,
           "selector_mode_background_shipping": "mod_1",
           "titulofrete": "Entrega via Correios©",
           "cordaborda": "#f0c032",
@@ -409,7 +409,7 @@
           "background_whatsapp_btn": "#ffffff",
           "txt_whatsapp_btn": "#0fb930",
           "wtspp_text": "Comprar pelo WhatsApp",
-          "whatsapplinknumber": "https:\/\/contate.me\/dropmeta",
+          "whatsapplinknumber": "https:\/\/contate.me",
           "mostrar_pix": true,
           "pix": "5",
           "corbandeiras": "#7c7c7c",
@@ -440,7 +440,7 @@
           "zoom_effect": "inside",
           "carousel_effect": "slide",
           "show_inventory_quantity": true,
-          "low_inventory_threshold": 7,
+          "low_inventory_threshold": 2,
           "content_display_mode": "show_all_and_expand_description",
           "tab_page_1_handle": "troca-e-devolucao",
           "tab_page_2_handle": "",
