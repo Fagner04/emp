@@ -572,7 +572,7 @@
         "settings": {
           "collection": "vitrine-da-semana",
           "title": "VITRINE DA SEMANA",
-          "products_count": 10,
+          "products_count": 6,
           "layout": "horizontal",
           "stack_desktop": false,
           "show_quick_buy": false,
