@@ -729,7 +729,7 @@
               "content_position": "top_left",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
-              "button_text": "Ver produto",
+              "button_text": "Ver mais",
               "button_link": "shopify:\/\/products\/haylou-ls02-smartwatch"
             }
           },
@@ -748,7 +748,7 @@
               "content_position": "top_left",
               "button_background": "#ffffff",
               "button_text_color": "#1d1b1b",
-              "button_text": "Ver produto",
+              "button_text": "Ver mais",
               "button_link": "shopify:\/\/products\/smartwatch-dropmeta"
             }
           },
@@ -767,7 +767,7 @@
               "content_position": "top_left",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
-              "button_text": "Ver produto",
+              "button_text": "Ver mais",
               "button_link": "shopify:\/\/products\/haylou-rt2-ls10"
             }
           }
