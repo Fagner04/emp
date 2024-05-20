@@ -481,5 +481,12 @@
         "address_company_blank": "CPF"
       }
     }
+  },
+  "customer_accounts": {
+    "B2B": {
+      "locations": {
+        "tax_id": "CPF"
+      }
+    }
   }
 }
