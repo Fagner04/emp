@@ -465,7 +465,10 @@
     "checkout": {
       "contact": {
         "company_label": "CPF",
-        "optional_company_label": "CPF"
+        "optional_company_label": "CPF",
+        "change_company_location_link_label": "CPF",
+        "company_attention_label": "CPF",
+        "optional_company_attention_label": "CPF"
       },
       "general": {
         "errors": {
@@ -473,6 +476,9 @@
             "business_customer_does_not_match_company": "CPF"
           }
         }
+      },
+      "field_errors": {
+        "address_company_blank": "CPF"
       }
     }
   }
