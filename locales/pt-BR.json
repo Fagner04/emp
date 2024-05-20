@@ -489,11 +489,15 @@
         "tax_id": "CPF"
       },
       "account_information": {
-        "company_card_name_label": "CPF"
+        "company_card_name_label": "CPF",
+        "company_card_section_accessibility_label": "CPF"
       }
     },
     "order_details": {
       "company": "CPF"
+    },
+    "address_form": {
+      "attention_company": "CPF"
     }
   }
 }
