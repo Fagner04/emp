@@ -466,6 +466,13 @@
       "contact": {
         "company_label": "CPF",
         "optional_company_label": "CPF"
+      },
+      "general": {
+        "errors": {
+          "buyer_identity": {
+            "business_customer_does_not_match_company": "CPF"
+          }
+        }
       }
     }
   }
