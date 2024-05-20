@@ -479,7 +479,8 @@
       },
       "field_errors": {
         "address_company_blank": "CPF",
-        "address_company_too_long": "CPF"
+        "address_company_too_long": "CPF",
+        "address_company_contains_mathematical_symbols": "CPF"
       },
       "payment": {
         "mor_disclaimer_html": "CPF"
