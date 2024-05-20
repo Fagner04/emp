@@ -480,6 +480,9 @@
       "field_errors": {
         "address_company_blank": "CPF",
         "address_company_too_long": "CPF"
+      },
+      "payment": {
+        "mor_disclaimer_html": "CPF"
       }
     }
   },
