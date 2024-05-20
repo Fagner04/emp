@@ -292,7 +292,7 @@
       "form_subtitle": "Por favor, preencha os dados abaixo:",
       "first_name": "Primeiro nome",
       "last_name": "Sobrenome",
-      "company": "Empresa",
+      "company": "CPF",
       "address1": "Endereço",
       "address2": "Complemento",
       "city": "Cidade",
@@ -478,7 +478,8 @@
         }
       },
       "field_errors": {
-        "address_company_blank": "CPF"
+        "address_company_blank": "CPF",
+        "address_company_too_long": "CPF"
       }
     }
   },
@@ -486,7 +487,13 @@
     "B2B": {
       "locations": {
         "tax_id": "CPF"
+      },
+      "account_information": {
+        "company_card_name_label": "CPF"
       }
+    },
+    "order_details": {
+      "company": "CPF"
     }
   }
 }
