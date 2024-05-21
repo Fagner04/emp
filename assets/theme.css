@@ -14236,4 +14236,21 @@ input.qtyminus {
     width: 100%;
     text-align: start;
   }
+
+  /* ICONES MENU */
+  .mobile-menu__nav-link {
+justify-content: flex-start;
+gap: 10px;
+}
+.mobile-menu .icon--arrow-right {
+margin-left: auto;
+}
+Dawn em base.css
+.menu-drawer__close-button {
+gap: 10px;
+}
+.menu-drawer__menu-item {
+gap: 10px;
+}
+  
 }
