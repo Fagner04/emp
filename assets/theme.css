@@ -4624,7 +4624,7 @@ img.lazyload[data-sizes=auto] {
 display: block;
     padding: 12px 12px;
     border-radius: var(--border-radius-btn);
-    background: #ffffff;
+    background: #ffd3d3;
     border: none;
     width: 100%;
     line-height: normal;
