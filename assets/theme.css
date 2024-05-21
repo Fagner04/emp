@@ -5275,7 +5275,8 @@ select::-ms-expand {
 }
 .footer {
   padding: 32px 0 56px 0;
-  background: var(--footer-background);
+  /* background: var(--footer-background); */
+  background:  #ffffff;
   color: var(--footer-text-color);
 }
 
