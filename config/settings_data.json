@@ -763,13 +763,13 @@
               "background": "#f9cac2",
               "background2": "#9c8f8f",
               "text_color": "#000000",
-              "title": "RESORT",
-              "content": "Linha praia",
+              "title": "LONDON",
+              "content": "COLEÇÃO",
               "content_position": "top_left",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "Ver mais",
-              "button_link": "shopify:\/\/collections\/resort"
+              "button_link": "shopify:\/\/collections\/london"
             }
           }
         },
