@@ -715,6 +715,25 @@
       "1649913261818592e3": {
         "type": "promotion-list",
         "blocks": {
+          "1649913261818592e3-1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_1080_x_1080_px_12.png",
+              "show_overlay": false,
+              "overlay_opacity": 50,
+              "stretch_image": true,
+              "background": "#f9cac2",
+              "background2": "#9c8f8f",
+              "text_color": "#000000",
+              "title": "LONDON",
+              "content": "COLEÇÃO",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Ver mais",
+              "button_link": "shopify:\/\/collections\/london"
+            }
+          },
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
@@ -752,31 +771,12 @@
               "button_text": "Ver mais",
               "button_link": "shopify:\/\/collections\/biquini-1"
             }
-          },
-          "1649913261818592e3-1": {
-            "type": "item",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_1080_x_1080_px_12.png",
-              "show_overlay": false,
-              "overlay_opacity": 50,
-              "stretch_image": true,
-              "background": "#f9cac2",
-              "background2": "#9c8f8f",
-              "text_color": "#000000",
-              "title": "LONDON",
-              "content": "COLEÇÃO",
-              "content_position": "top_left",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "Ver mais",
-              "button_link": "shopify:\/\/collections\/london"
-            }
           }
         },
         "block_order": [
+          "1649913261818592e3-1",
           "1649913261818592e3-0",
-          "1649913261818592e3-2",
-          "1649913261818592e3-1"
+          "1649913261818592e3-2"
         ],
         "custom_css": [
 
