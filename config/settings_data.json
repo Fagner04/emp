@@ -285,7 +285,6 @@
           },
           "image_gAgiPF": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "mobile_image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia.jpg",
               "show_overlay": false,
