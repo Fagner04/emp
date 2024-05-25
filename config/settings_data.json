@@ -287,7 +287,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia_1124_x_320_px.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia_2.jpg",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
