@@ -249,6 +249,23 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "image_gAgiPF": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia_1124_x_320_px.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia_2.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Botão de ação",
+              "link": ""
+            }
+          },
           "image_rU3PHH": {
             "type": "image",
             "settings": {
@@ -282,29 +299,12 @@
               "button_text": "",
               "link": "shopify:\/\/collections\/fitness"
             }
-          },
-          "image_gAgiPF": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia_1124_x_320_px.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Instagram_Post_moda_praia_2.jpg",
-              "show_overlay": false,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "Botão de ação",
-              "link": ""
-            }
           }
         },
         "block_order": [
+          "image_gAgiPF",
           "image_rU3PHH",
-          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
-          "image_gAgiPF"
+          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d"
         ],
         "settings": {
           "edge_to_edge": false,
