@@ -249,23 +249,6 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
-          "image_rU3PHH": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.png",
-              "mobile_image": "shopify:\/\/shop_images\/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.gif",
-              "show_overlay": false,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": "shopify:\/\/collections\/london"
-            }
-          },
           "image_gAgiPF": {
             "type": "image",
             "settings": {
@@ -281,6 +264,23 @@
               "button_text_color": "#000000",
               "button_text": "",
               "link": "shopify:\/\/pages\/nova-colecao"
+            }
+          },
+          "image_rU3PHH": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.gif",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify:\/\/collections\/london"
             }
           },
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
@@ -302,8 +302,8 @@
           }
         },
         "block_order": [
-          "image_rU3PHH",
           "image_gAgiPF",
+          "image_rU3PHH",
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d"
         ],
         "settings": {
