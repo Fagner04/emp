@@ -258,11 +258,11 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
-          "image_gAgiPF": {
+          "image_CRwDwa": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px.png",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px.png",
+              "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px_1_3c4b4f1e-ad8c-4d89-a69e-32780fd6ee24.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px_1.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -271,8 +271,8 @@
               "content_position": "middle_center",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
-              "button_text": "",
-              "link": "shopify:\/\/collections\/beachwaer-1"
+              "button_text": "Botão de ação",
+              "link": ""
             }
           },
           "image_rU3PHH": {
@@ -308,12 +308,30 @@
               "button_text": "",
               "link": "shopify:\/\/collections\/fitness"
             }
+          },
+          "image_gAgiPF": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify:\/\/collections\/beachwaer-1"
+            }
           }
         },
         "block_order": [
-          "image_gAgiPF",
+          "image_CRwDwa",
           "image_rU3PHH",
-          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d"
+          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
+          "image_gAgiPF"
         ],
         "settings": {
           "edge_to_edge": false,
