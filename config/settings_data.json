@@ -333,12 +333,15 @@
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
           "image_gAgiPF"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
-          "edge_to_edge": true,
+          "edge_to_edge": false,
           "section_size": "preserve_ratio",
           "carousel_effect": "slide",
           "autoplay": true,
-          "cycle_speed": 4
+          "cycle_speed": 3
         }
       },
       "collection-list": {
