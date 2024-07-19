@@ -620,7 +620,7 @@
         "settings": {
           "collection": "vitrine-da-semana",
           "title": "VITRINE EMPORIO",
-          "products_count": 9,
+          "products_count": 12,
           "layout": "horizontal",
           "stack_desktop": false,
           "show_quick_buy": false,
