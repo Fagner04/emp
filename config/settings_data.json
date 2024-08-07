@@ -962,7 +962,7 @@
           "description": "Oi! Clique em um de nossos membros abaixo para conversar no WhatsApp",
           "response_text": "A equipe normalmente responde em alguns minutos.",
           "gdpr_text": "Please accept our privacy policy first to start a conversation.",
-          "background_color": "#2DB742",
+          "background_color": "#2db742",
           "text_color": "#ffffff",
           "position": "right",
           "label_width": 155,
