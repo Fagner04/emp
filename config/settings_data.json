@@ -953,7 +953,7 @@
           "show_on_desktop": true,
           "show_on_mobile": true,
           "show_label_on_desktop": true,
-          "show_label_on_mobile": true,
+          "show_label_on_mobile": false,
           "show_scroll_bar": false,
           "show_gdpr_notice": false,
           "use_click_to_chat": false,
