@@ -958,7 +958,7 @@
           "show_gdpr_notice": false,
           "use_click_to_chat": false,
           "widget_label_text": "Need Help? Chat with us",
-          "widget_text": "Start a Conversation",
+          "widget_text": "Olá tivre sua duvida com migo!",
           "description": "Hi! Click one of our member below to chat on WhatsApp",
           "response_text": "The team typically replies in a few minutes.",
           "gdpr_text": "Please accept our privacy policy first to start a conversation.",
