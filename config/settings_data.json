@@ -448,7 +448,7 @@
           "mostrar_correios": true,
           "mostrar_devolucao": true,
           "mostrar_garantia": true,
-          "mostrar_maisvendido": true,
+          "mostrar_maisvendido": false,
           "mostrar_addtocart": true,
           "btn-suspenso-flut": true,
           "show_quantity_selector": true,
