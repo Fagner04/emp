@@ -469,7 +469,7 @@
           "mostrar_campo_personalizado": true,
           "mostrar_contador": true,
           "bg_contador": "#abcc49",
-          "txt_um_contador": "#ffffff",
+          "txt_um_contador": "#000000",
           "texto_contador": "Corra! Promo acaba em",
           "txt_dois_contador": "#f9eeec",
           "mostrar_cssryviu": false,
