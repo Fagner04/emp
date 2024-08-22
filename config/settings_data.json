@@ -468,7 +468,7 @@
           "selector_mode_natalimg": "pre",
           "mostrar_campo_personalizado": true,
           "mostrar_contador": true,
-          "bg_contador": "#000000",
+          "bg_contador": "#ff8383",
           "txt_um_contador": "#ffffff",
           "texto_contador": "(edite) Corra! Promo acaba em",
           "txt_dois_contador": "#ffce00",
