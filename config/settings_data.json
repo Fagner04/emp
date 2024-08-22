@@ -237,7 +237,7 @@
           "mostrar_selosbrancos": false,
           "mostrar_selo1": true,
           "selo1": "",
-          "mostrar_selo2": true,
+          "mostrar_selo2": false,
           "selo2": "",
           "mostrar_selo3": true,
           "selo3": "",
