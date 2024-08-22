@@ -925,6 +925,19 @@
           "show_quick_buy": "list",
           "quick_links": ""
         }
+      },
+      "featured_collection_G43GCf": {
+        "type": "featured-collection",
+        "settings": {
+          "collection": "pomo",
+          "title": "Promoções",
+          "products_count": 12,
+          "layout": "vertical",
+          "stack_desktop": false,
+          "show_quick_buy": false,
+          "link_title": "Ver tudo",
+          "link_url": ""
+        }
       }
     },
     "content_for_index": [
@@ -933,6 +946,7 @@
       "1649489657b78ca727",
       "16153541158fc73818",
       "1649913261818592e3",
+      "featured_collection_G43GCf",
       "16153539675ef431a7",
       "16494890143053ae61",
       "slideshow_VWtgiT"
