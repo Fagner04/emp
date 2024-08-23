@@ -930,7 +930,7 @@
         "type": "featured-collection",
         "settings": {
           "collection": "pomo",
-          "title": "Promoções",
+          "title": "Promoção",
           "products_count": 12,
           "layout": "vertical",
           "stack_desktop": false,
