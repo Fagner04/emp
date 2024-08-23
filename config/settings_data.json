@@ -466,7 +466,7 @@
           "bandeiras_type_page_product": "padrao",
           "mostrar_natalimg": false,
           "selector_mode_natalimg": "pre",
-          "mostrar_campo_personalizado": true,
+          "mostrar_campo_personalizado": false,
           "mostrar_contador": true,
           "bg_contador": "#d5edbe",
           "txt_um_contador": "#000000",
@@ -478,7 +478,7 @@
           "mostrar_icone": true,
           "mostrar_codigodoitem": true,
           "mostrar_barra_de_entrega": false,
-          "blackfriday": true,
+          "blackfriday": false,
           "selector_mode": "block",
           "color_mode": "block",
           "show_payment_button": false,
@@ -497,7 +497,7 @@
           "show_reviews_badge": false,
           "trust_title": "Pagamento Seguro",
           "show_payment_icons": true,
-          "show_shipping_estimator": false,
+          "show_shipping_estimator": true,
           "shipping_estimator_default_country": "",
           "show_refunds_policy": false
         }
