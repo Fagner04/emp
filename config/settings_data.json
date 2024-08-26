@@ -844,7 +844,7 @@
         "settings": {
           "collection": "os-produtos-mais-vendidos",
           "products_count": 12,
-          "background1": "#9c8f8f",
+          "background1": "#ffffff",
           "background2": "#f9cac2",
           "text_color": "#000000",
           "title": "Só as selecionadas  os produtos mais vendidos",
