@@ -11339,6 +11339,7 @@ iframe {
 .social-media__item svg {
   width: 28px;
   height: 28px;
+  transition : 300ms;
   /* opacity: 0.4; */
   /* transition: color 0.25s ease-in-out, opacity 0.25s ease-in-out; */
   /* will-change: opacity; */
@@ -11367,8 +11368,9 @@ iframe {
   }
 
   /* .social-media__item--facebook :Hover svg { */
-    .social-media__item--facebook {
+    .social-media__item--facebook : hover {
     color: #3b5998;
+      transform : 1,0ms;
   }
 
   /* .social-media__item--twitter:hover svg { */
