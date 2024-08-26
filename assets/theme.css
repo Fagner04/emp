@@ -11341,7 +11341,7 @@ iframe {
   height: 28px;
   /* opacity: 0.4; */
   /* transition: color 0.25s ease-in-out, opacity 0.25s ease-in-out; */
-  /* will-change: opacity; */
+  will-change: opacity;
 }
 
 /* Stacked variation */
