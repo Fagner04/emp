@@ -11366,7 +11366,7 @@ iframe {
     opacity: 1;
   }
 
-  .social-media__item--facebook: svg {
+  .social-media__item--facebook:Hover svg {
     color: #3b5998;
   }
 
