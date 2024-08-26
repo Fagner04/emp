@@ -11362,8 +11362,8 @@ iframe {
 }
 
 @media (-moz-touch-enabled: 0),(hover: hover) {
-  .social-media__item:hover svg {
-    opacity: 1;
+  /* .social-media__item:hover svg { */
+    /* opacity: 1; */
   }
 
   /* .social-media__item--facebook :Hover svg { */
