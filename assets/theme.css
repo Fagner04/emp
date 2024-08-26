@@ -11371,15 +11371,18 @@ iframe {
     color: #3b5998;
   }
 
-  .social-media__item--twitter:hover svg {
+  /* .social-media__item--twitter:hover svg { */
+  .social-media__item--twitter {
     color: #1da1f2;
   }
 
-  .social-media__item--pinterest:hover svg {
+  /* .social-media__item--pinterest:hover svg { */
+   .social-media__item--pinterest {
     color: #bd081c;
   }
 
-  .social-media__item--instagram:hover svg {
+  /* .social-media__item--instagram:hover svg { */
+  .social-media__item--instagram {
     color: #d83776;
   }
 
