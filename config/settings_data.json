@@ -931,7 +931,7 @@
         "type": "featured-collection",
         "settings": {
           "collection": "pomo",
-          "title": "produto em ofertas",
+          "title": "Produto em ofertas",
           "products_count": 12,
           "layout": "vertical",
           "stack_desktop": false,
