@@ -11360,7 +11360,6 @@ iframe {
 .social-media__item-list--stack svg {
   vertical-align: top;
   margin-right: 12px;
-  transition: 30ms;
 }
 
 @media (-moz-touch-enabled: 0),(hover: hover) {
