@@ -466,7 +466,7 @@
           "bandeiras_type_page_product": "padrao",
           "mostrar_natalimg": false,
           "selector_mode_natalimg": "pre",
-          "mostrar_campo_personalizado": false,
+          "mostrar_campo_personalizado": true,
           "mostrar_contador": true,
           "bg_contador": "#d5edbe",
           "txt_um_contador": "#000000",
