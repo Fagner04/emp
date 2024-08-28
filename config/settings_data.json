@@ -258,6 +258,22 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "image_m3g6aV": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Elegant_Summer_Fashion_Blog_Banner_Beige_1124_x_320_px.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": ""
+            }
+          },
           "image_rU3PHH": {
             "type": "image",
             "settings": {
@@ -326,30 +342,14 @@
               "button_text": "",
               "link": "shopify:\/\/collections\/beachwaer-1"
             }
-          },
-          "image_m3g6aV": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Elegant_Summer_Fashion_Blog_Banner_Beige_1124_x_320_px.png",
-              "show_overlay": false,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": ""
-            }
           }
         },
         "block_order": [
+          "image_m3g6aV",
           "image_rU3PHH",
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
           "image_CRwDwa",
-          "image_gAgiPF",
-          "image_m3g6aV"
+          "image_gAgiPF"
         ],
         "custom_css": [
 
