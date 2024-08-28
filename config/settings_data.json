@@ -262,6 +262,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Elegant_Summer_Fashion_Blog_Banner_Beige_1124_x_320_px.png",
+              "mobile_image": "shopify:\/\/shop_images\/Elegant_Summer_Fashion_Blog_Banner_Beige_1124_x_320_px_1100_x_1100_px.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
