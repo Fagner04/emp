@@ -842,7 +842,7 @@
           "h2 {font-size: 19px;}"
         ],
         "settings": {
-          "collection": "os-produtos-mais-vendidos",
+          "collection": "ultimas-novidades",
           "products_count": 12,
           "background1": "#f9cac2",
           "background2": "#f9cac2",
