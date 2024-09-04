@@ -260,6 +260,7 @@
         "blocks": {
           "image_m3g6aV": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Elegant_Summer_Fashion_Blog_Banner_Beige_1124_x_320_px.png",
               "mobile_image": "shopify:\/\/shop_images\/Elegant_Summer_Fashion_Blog_Banner_Beige_1124_x_320_px_1100_x_1100_px.png",
