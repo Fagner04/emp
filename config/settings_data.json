@@ -330,7 +330,6 @@
           },
           "image_gAgiPF": {
             "type": "image",
-            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px.png",
               "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px.png",
