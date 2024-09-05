@@ -6168,7 +6168,7 @@ select::-ms-expand {
   width: 100%;
   text-align: center;
   font-weight: var(--text-font-bolder-weight);
-  color: var(--accent-color);
+  color: 504846;
   transition: background 0.2s ease-in-out;
 }
 
