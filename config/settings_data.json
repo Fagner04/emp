@@ -312,6 +312,7 @@
           },
           "image_CRwDwa": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px_1_3c4b4f1e-ad8c-4d89-a69e-32780fd6ee24.png",
               "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px_1.png",
