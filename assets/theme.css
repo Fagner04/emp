@@ -6112,7 +6112,8 @@ select::-ms-expand {
   background: linear-gradient(45deg, #ffffff, #d1b0b0);
   border-radius: 19px;
   align-items: center;
-  padding: 15px 20px;
+  padding: 1px 10px;
+  margin: 5px;
   transition: background 0.2s ease-in-out;
 }
 
