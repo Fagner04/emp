@@ -6147,7 +6147,7 @@ select::-ms-expand {
 }
 
 .search-bar__item-price {
-  color: var(--accent-color);
+  color: #ed0000;
 }
 
 .search-bar__result-link {
