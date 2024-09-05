@@ -12770,7 +12770,7 @@ iframe {
   font-size: calc(var(--base-text-font-size) - (var(--default-text-font-size) - 15px));
   border: none;
   border-radius: var(--border-radius-theme);
-  background: #0000;
+  background: #dac1c1;
   box-shadow: 0 2px 5px -3px #0000005e;
   vertical-align: middle;
 }
