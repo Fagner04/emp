@@ -2959,6 +2959,7 @@ img.lazyload[data-sizes=auto] {
 .mini-cart[aria-hidden=false] {
   visibility: visible;
   opacity: 1;
+  background: linear-gradient(45deg, #ffe1e1, #ffffff);
   transform: scale(1);
   transition: opacity 0.4s cubic-bezier(0, 1, 0.4, 1), transform 0.4s cubic-bezier(0.18, 1.25, 0.4, 1), visibility 0.4s linear;
 }
