@@ -6109,7 +6109,7 @@ select::-ms-expand {
 
 .search-bar__result-item {
   display: flex;
-  background: linear-gradient(45deg, #ffffff, #cecece);
+  background: linear-gradient(45deg, #fff2f2, #ffffff);
   border-radius: 5px;
   align-items: center;
   padding: 1px 10px;
