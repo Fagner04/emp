@@ -9145,7 +9145,7 @@ background: linear-gradient(358deg, #392828, #589155);
 }
 
 .inventory--high {
-  color: var(--product-in-stock-color);
+  color: #967474;
 }
 
 .inventory--low {
