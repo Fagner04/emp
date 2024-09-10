@@ -126,6 +126,18 @@
       "header": {
         "type": "header",
         "blocks": {
+          "mega_menu_EEUWNe": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "",
+              "image_1_heading": "Sua imagem",
+              "image_1_text": "Conte sua história",
+              "image_1_link": "",
+              "image_2_heading": "Sua imagem",
+              "image_2_text": "Conte sua história",
+              "image_2_link": ""
+            }
+          },
           "7000eb54-1dfe-42a3-9fb7-577d915b94cb": {
             "type": "mega_menu",
             "settings": {
@@ -140,6 +152,7 @@
           }
         },
         "block_order": [
+          "mega_menu_EEUWNe",
           "7000eb54-1dfe-42a3-9fb7-577d915b94cb"
         ],
         "custom_css": [
@@ -154,7 +167,7 @@
           "logo": "shopify:\/\/shop_images\/Copia_de_Banner_1124_x_320_px.png",
           "logo_max_width": 120,
           "mobile_logo_max_width": 80,
-          "barraimg_top": true,
+          "barraimg_top": false,
           "barraimg_bottom": false,
           "bgimg": "#f9cac2",
           "imgpc": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_4.png",
@@ -981,14 +994,14 @@
       "barra-infinita": {
         "type": "barra-infinita",
         "settings": {
-          "show_adbanner": false,
+          "show_adbanner": true,
           "active_infinite_banner": true,
           "ad_link": "shopify:\/\/collections\/all",
-          "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_6_16b24218-7e33-4ccd-be27-4d1a914ea95c.png",
+          "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_7_7fe6db13-6135-4b35-a849-d86e196d322a.png",
           "mobile_banner": "shopify:\/\/shop_images\/IMG_MOB_500x_25f75f09-3578-4e91-9abd-0d6fd3613d9f.webp",
           "background1": "#00d764",
-          "background2": "#f9cac2",
-          "background3": "#f9cac2"
+          "background2": "#ffffff",
+          "background3": "#ffffff"
         }
       }
     },
