@@ -258,6 +258,24 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "image_CRwDwa": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Semana_de_Descontos_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Semana_de_Descontos_1100_x_1100_px_1.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify:\/\/collections\/mikonos"
+            }
+          },
           "image_m3g6aV": {
             "type": "image",
             "disabled": true,
@@ -310,24 +328,6 @@
               "link": "shopify:\/\/collections\/fitness"
             }
           },
-          "image_CRwDwa": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px_1_3c4b4f1e-ad8c-4d89-a69e-32780fd6ee24.png",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px_1.png",
-              "show_overlay": false,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": "shopify:\/\/collections\/mikonos"
-            }
-          },
           "image_gAgiPF": {
             "type": "image",
             "settings": {
@@ -364,10 +364,10 @@
           }
         },
         "block_order": [
+          "image_CRwDwa",
           "image_m3g6aV",
           "image_rU3PHH",
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
-          "image_CRwDwa",
           "image_gAgiPF",
           "image_g6TYVy"
         ],
