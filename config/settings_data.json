@@ -347,6 +347,7 @@
           },
           "image_g6TYVy": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Copia_de_a_vista_no_PIX_3.png",
               "show_overlay": false,
