@@ -154,7 +154,7 @@
           "logo": "shopify:\/\/shop_images\/Copia_de_Banner_1124_x_320_px.png",
           "logo_max_width": 120,
           "mobile_logo_max_width": 80,
-          "barraimg_top": true,
+          "barraimg_top": false,
           "barraimg_bottom": false,
           "bgimg": "#f9cac2",
           "imgpc": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_4.png",
@@ -976,6 +976,19 @@
           "show_quick_buy": false,
           "link_title": "Ver tudo",
           "link_url": ""
+        }
+      },
+      "barra-infinita": {
+        "type": "barra-infinita",
+        "settings": {
+          "show_adbanner": true,
+          "active_infinite_banner": false,
+          "ad_link": "shopify:\/\/collections\/all",
+          "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_5.png",
+          "mobile_banner": "shopify:\/\/shop_images\/IMG_PC_1000x_4a56593b-64f3-4f87-9df8-a428960f554b.webp",
+          "background1": "#00d764",
+          "background2": "#f9cac2",
+          "background3": "#f9cac2"
         }
       }
     },
