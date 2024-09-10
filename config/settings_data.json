@@ -154,7 +154,7 @@
           "logo": "shopify:\/\/shop_images\/Copia_de_Banner_1124_x_320_px.png",
           "logo_max_width": 120,
           "mobile_logo_max_width": 80,
-          "barraimg_top": false,
+          "barraimg_top": true,
           "barraimg_bottom": false,
           "bgimg": "#f9cac2",
           "imgpc": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_4.png",
