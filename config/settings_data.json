@@ -345,7 +345,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px.png",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px.jpg",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
