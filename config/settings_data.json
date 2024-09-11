@@ -128,6 +128,7 @@
         "blocks": {
           "mega_menu_EEUWNe": {
             "type": "mega_menu",
+            "disabled": true,
             "settings": {
               "menu_item": "",
               "image_1_heading": "Sua imagem",
@@ -140,6 +141,7 @@
           },
           "7000eb54-1dfe-42a3-9fb7-577d915b94cb": {
             "type": "mega_menu",
+            "disabled": true,
             "settings": {
               "menu_item": "",
               "image_1_heading": "Your image",
@@ -391,7 +393,7 @@
           "section_size": "preserve_ratio",
           "carousel_effect": "slide",
           "autoplay": true,
-          "cycle_speed": 3
+          "cycle_speed": 4
         }
       },
       "collection-list": {
