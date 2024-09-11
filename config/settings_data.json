@@ -994,7 +994,7 @@
       "barra-infinita": {
         "type": "barra-infinita",
         "settings": {
-          "show_adbanner": true,
+          "show_adbanner": false,
           "active_infinite_banner": true,
           "ad_link": "shopify:\/\/collections\/all",
           "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_8ce4b9ef-422b-4078-ab8d-06dcff884c6c.png",
