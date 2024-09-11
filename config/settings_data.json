@@ -994,14 +994,14 @@
       "barra-infinita": {
         "type": "barra-infinita",
         "settings": {
-          "show_adbanner": false,
-          "active_infinite_banner": true,
+          "show_adbanner": true,
+          "active_infinite_banner": false,
           "ad_link": "shopify:\/\/collections\/all",
-          "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_8ce4b9ef-422b-4078-ab8d-06dcff884c6c.png",
-          "mobile_banner": "shopify:\/\/shop_images\/IMG_MOB_500x_25f75f09-3578-4e91-9abd-0d6fd3613d9f.webp",
+          "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_3_7ab3b88b-09ed-4fac-9f81-9c849af183e6.png",
+          "mobile_banner": "shopify:\/\/shop_images\/2.png",
           "background1": "#ffffff",
-          "background2": "#ffffff",
-          "background3": "#ffffff"
+          "background2": "#f9cac2",
+          "background3": "#f9cac2"
         }
       }
     },
