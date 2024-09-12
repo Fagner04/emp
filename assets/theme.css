@@ -2870,7 +2870,7 @@ img.lazyload[data-sizes=auto] {
 
   .card__section,
   .card__collapsible-button {
-    padding: 15px;
+    padding: 18px;
   }
 
   .card__section + .card__section::before {
