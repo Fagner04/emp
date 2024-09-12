@@ -44,8 +44,6 @@
           {% assign random = product.id | divided_by: 220022 | modulo: 21550 %}
           {% assign random_id = random | divided_by: 10 %}
 
-      fff
-
           {%- if section.settings.mostrar_quantidadevendidos -%}
 
       <span class="quantitysell" style="font-size: 12px;color: #b7b7b7;">Novo | <!--INICIO VENDIDOS-->{{ random_id }} Vendidos<!--FIM VENDIDOS--></span>
@@ -54,7 +52,7 @@
     
       {%- if template.name == 'product' and template != 'product.quick-view' -%}
       <h1 class="product-meta__title heading h1">{{ product.title }} 
-        
+        ee
         {%- if section.settings.mostrar_icone -%}
         <span><i class="fa fa-check-circle" aria-hidden="true" style="color: #005aff;font-size: 20px; position: relative; display: inline-block; top: -4px;"></i></span>
         {%- endif -%}
