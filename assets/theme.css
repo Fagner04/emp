@@ -2753,7 +2753,7 @@ img.lazyload[data-sizes=auto] {
 .card__section,
 .card__collapsible-button {
   position: relative;
-  padding: 24px;
+  padding: 13px;
 }
 
 .card__collapsible-button {
