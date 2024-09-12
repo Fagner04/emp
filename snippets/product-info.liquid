@@ -72,9 +72,10 @@
               <span class="quantitysell" style="color: #3A2A2F;"> | </span>
               <span class="quantitysell" style="color: #0086ff;">Disponível em estoque.</span>
             </div>
-      r
+            
           {%- endif -%}
-              
+         {% render 'oferta' %}
+      
       <a href="#looxReviews" aria-label="Loox - App de avaliações">
 	  <div class="loox-rating" style="margin-top: 2px; display: flex; align-items: center;" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}">
 	  </div>
