@@ -306,6 +306,7 @@
                   <div class="block-swatch-list">
                     {%- for value in option.values -%}
                       {%- capture block_swatch_id -%}{{ option_name }}-{{ forloop.index }}{%- endcapture -%}
+                      yyy
 
                       <div class="block-swatch">
                         <input class="block-swatch__radio product-form__single-selector" type="radio" name="{{ option_name }}" id="{{ block_swatch_id }}" value="{{ value | escape }}" {% if option.selected_value == value %}checked{% endif %} data-option-position="{{ option.position }}" aria-hidden="true"><!--thi@gohsil@-->
