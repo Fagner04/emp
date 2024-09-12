@@ -386,7 +386,7 @@
       "shipping_policy_html": ""
     },
     "labels": {
-      "sold_out": "Esgotadoss"
+      "sold_out": "Esgotado"
     },
     "form": {
       "variant": "Variante",
@@ -404,7 +404,7 @@
         "other": "Em estoque ({{count}} unidades)"
       },
       "add_to_cart": "Comprar agora",
-      "sold_out": "Esgotado",
+      "sold_out": "Esgotadoee",
       "pre_order": "Pré-compra",
       "unavailable": "Indisponível",
       "contact_us": "Contate-nos"
