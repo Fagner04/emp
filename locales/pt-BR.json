@@ -400,8 +400,8 @@
         "other": "Apenas {{count}} unidades restantes"
       },
       "in_stock_with_quantity_count": {
-        "one": "Em estoque ({{count}} unidade), pronto para ser enviado ok",
-        "other": "Em estoque ({{count}} unidades), pronto para ser enviado ol"
+        "one": "Em estoque ({{count}} unidade), pronto para ser enviado",
+        "other": "Em estoque ({{count}} unidades),"
       },
       "add_to_cart": "Comprar agora",
       "sold_out": "Esgotado",
