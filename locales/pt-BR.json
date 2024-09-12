@@ -404,7 +404,7 @@
         "other": "Em estoque ({{count}} unidades)"
       },
       "add_to_cart": "Comprar agora",
-      "sold_out": "Esgotadoee",
+      "sold_out": "Esgotado",
       "pre_order": "Pré-compra",
       "unavailable": "Indisponível",
       "contact_us": "Contate-nos"
