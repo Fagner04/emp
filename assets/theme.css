@@ -9149,7 +9149,7 @@ background: linear-gradient(358deg, #392828, #589155);
 }
 
 .inventory--low {
-  color: var(--product-low-stock-color);
+  color: #ababab;
 }
 
 .inventory-bar {
