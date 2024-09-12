@@ -39,7 +39,8 @@
       {%- endcapture -%}
     {%- endif -%}
 
-    
+
+     {% render 'oferta' %}
     <div class="product-meta">
       <!--{% assign random = product.id | plus: 123456789 | divided_by: 65 | modulo: 32768 | modulo: 21500 %}--> 
           {% assign random = product.id | divided_by: 220022 | modulo: 21550 %}
