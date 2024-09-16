@@ -136,7 +136,8 @@ img {
 }
 
 .bandeiras-align  {
-  background : red;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #e29999, #ededed59);
 }
 
 /**
