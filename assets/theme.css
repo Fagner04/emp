@@ -135,6 +135,10 @@ img {
   vertical-align: top;
 }
 
+.bandeiras-align  {
+  background : red;
+}
+
 /**
  * Grouping content
  */
