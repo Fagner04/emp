@@ -1005,6 +1005,34 @@
           "background2": "#f9cac2",
           "background3": "#f9cac2"
         }
+      },
+      "offers_EnxMYM": {
+        "type": "offers",
+        "blocks": {
+          "offer_ndzTNc": {
+            "type": "offer",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_5_30b404b7-9187-4f3d-bca7-1f7d836bf589.svg",
+              "title": "CUPOM PRIMEIRA COMPRA 10%OFF",
+              "content": ""
+            }
+          },
+          "offer_UEqwft": {
+            "type": "offer",
+            "settings": {
+              "title": "Your text",
+              "content": "<p>Write a few words about your offers or your shop.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "offer_ndzTNc",
+          "offer_UEqwft"
+        ],
+        "settings": {
+          "items_per_row": 2,
+          "stack_mobile": false
+        }
       }
     },
     "content_for_index": [
@@ -1016,7 +1044,8 @@
       "featured_collection_G43GCf",
       "16153539675ef431a7",
       "16494890143053ae61",
-      "slideshow_VWtgiT"
+      "slideshow_VWtgiT",
+      "offers_EnxMYM"
     ],
     "blocks": {
       "4912811683585195618": {
