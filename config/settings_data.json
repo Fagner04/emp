@@ -46,7 +46,7 @@
     "product_sold_out_color": "#f84343",
     "border_radius_theme": 24,
     "border_radius_btn": 32,
-    "mostrar_fretegratis1": true,
+    "mostrar_fretegratis1": false,
     "cordabarra": "#c97c5c",
     "cordotexto": "#ffffff",
     "mostrar_estrelas_ryviu": false,
