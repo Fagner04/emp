@@ -1012,16 +1012,15 @@
           "offer_ndzTNc": {
             "type": "offer",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_5_30b404b7-9187-4f3d-bca7-1f7d836bf589.svg",
-              "title": "CUPOM PRIMEIRA COMPRA 10%OFF",
-              "content": ""
+              "title": "",
+              "content": "<p>Primeira compra 10%off<\/p>"
             }
           },
           "offer_UEqwft": {
             "type": "offer",
             "settings": {
-              "title": "Your text",
-              "content": "<p>Write a few words about your offers or your shop.<\/p>"
+              "title": "",
+              "content": "<p>Frete gratis acima de R$:300,90<\/p>"
             }
           }
         },
