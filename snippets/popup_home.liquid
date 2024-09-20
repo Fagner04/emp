@@ -20,7 +20,7 @@
             transform: translate(-50%, -50%);
             background-color: #ffffff26;
             padding: 20px;
-            border-radius: 5px;
+            border-radius: 13px;
         }
 
         /* Estilos para o botão de fechar */
@@ -38,7 +38,7 @@
     <div id="myPopup" class="popup">
         <div class="popup-content" style="width: 350px;height: 350px;cursor:pointer;">
             <span class="close-button" onclick="fecharPopup()">&times;</span>
-            <img onclick="location.href='{{ settings.img_popup }}'" src="{{ settings.popup_image | img_url: "master" }}" style="width: 300px;height: auto;">
+            <img onclick="location.href='{{ settings.img_popup }}'" src="{{ settings.popup_image | img_url: "master" }}" style="width: 300px;height: auto; border-radios:13px;">
         </div>
     </div>
 <script>       
