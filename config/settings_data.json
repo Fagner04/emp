@@ -945,10 +945,10 @@
           "image_rtr93g": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul_1.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul_1.jpg",
-              "show_overlay": false,
-              "overlay_opacity": 47,
+              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.svg",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.svg",
+              "show_overlay": true,
+              "overlay_opacity": 12,
               "text_color": "#ffffff",
               "title": "",
               "content": "",
