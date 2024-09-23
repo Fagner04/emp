@@ -10,8 +10,8 @@
 {
   "current": {
     "popup_home": true,
-    "popup_image": "shopify:\/\/shop_images\/Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_3.svg",
-    "img_popup": "shopify:\/\/collections\/all",
+    "popup_image": "shopify://shop_images/Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_3.svg",
+    "img_popup": "shopify://collections/all",
     "cookie_time": 60,
     "heading_color": "#000000",
     "text_color": "#000000",
@@ -77,10 +77,10 @@
     "addzap": false,
     "numberzap": "",
     "zap_icon_type": "original",
-    "zap_icon": "shopify:\/\/shop_images\/Screenshot_1.png",
+    "zap_icon": "shopify://shop_images/Screenshot_1.png",
     "show_online_icon": false,
     "zap_img_type": "img",
-    "zap_img": "shopify:\/\/shop_images\/Screenshot_1.png",
+    "zap_img": "shopify://shop_images/Screenshot_1.png",
     "titlezap": "Dropmeta",
     "txtzap": "A equipe está online",
     "colorzap": "#702dfa",
@@ -93,20 +93,20 @@
     "animation_image_zoom": true,
     "search_mode": "product",
     "cart_type": "drawer",
-    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_empty_button_link": "shopify://collections/all",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "399,90",
-    "social_facebook": "http:\/\/",
+    "social_facebook": "http://",
     "social_twitter": "",
-    "social_pinterest": "http:\/\/",
-    "social_instagram": "https:\/\/www.instagram.com\/reel\/C7ot0hhMimV\/?utm_source=ig_web_copy_link",
+    "social_pinterest": "http://",
+    "social_instagram": "https://www.instagram.com/reel/C7ot0hhMimV/?utm_source=ig_web_copy_link",
     "social_vimeo": "",
     "social_tumblr": "",
     "social_youtube": "",
     "social_linkedin": "",
     "social_snapchat": "",
     "social_fancy": "",
-    "favicon": "shopify:\/\/shop_images\/FAV_SITE.png",
+    "favicon": "shopify://shop_images/FAV_SITE.png",
     "checkout_header_image": "",
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
@@ -170,15 +170,15 @@
           "show_track_order_header": true,
           "rastreiopage": "rastrear-pedido",
           "selector_style_search_icon": "style_2",
-          "logo": "shopify:\/\/shop_images\/Copia_de_Banner_1124_x_320_px.png",
+          "logo": "shopify://shop_images/Copia_de_Banner_1124_x_320_px.png",
           "logo_max_width": 120,
           "mobile_logo_max_width": 80,
           "barraimg_top": false,
           "barraimg_bottom": false,
           "bgimg": "#f9cac2",
-          "imgpc": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_4.png",
+          "imgpc": "shopify://shop_images/Banner_Site_Black_Friday_moderno_preto_e_rosa_4.png",
           "imgpc_max_height": 40,
-          "imgmob": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_11.png",
+          "imgmob": "shopify://shop_images/Banner_Site_Black_Friday_moderno_preto_e_rosa_11.png",
           "imgmob_max_height": 75,
           "linkimg": "",
           "mostrar_bar_info_shipping": true,
@@ -212,7 +212,7 @@
               "mostrar_logotipo": false,
               "logo_max_width_footer": 95,
               "title": "ATENDIMENTO AO CLIENTE",
-              "content": "<p><strong>Email: <\/strong>emporiobodyofc@gmail.com<br\/><strong>WhatsApp:<\/strong> +55 62 9232-0606<\/p>"
+              "content": "<p><strong>Email: </strong>emporiobodyofc@gmail.com<br/><strong>WhatsApp:</strong> +55 62 9232-0606</p>"
             }
           },
           "footer-1": {
@@ -231,7 +231,7 @@
             "type": "newsletter",
             "settings": {
               "title": "QUER RECEBER NOSSAS NOVIDADES?",
-              "subheading": "<p>Assine nossa newsletter e receba as melhores ofertas DE GRAÇA!<\/p>"
+              "subheading": "<p>Assine nossa newsletter e receba as melhores ofertas DE GRAÇA!</p>"
             }
           }
         },
@@ -246,9 +246,9 @@
         ],
         "settings": {
           "mostrar_cnpj": true,
-          "cnpjaqui": "CNPJ :45.688.532\/0001-00   Rua C-500 N31 Setor Centro Oeste , Goiânia - Go CEP.74550050",
+          "cnpjaqui": "CNPJ :45.688.532/0001-00   Rua C-500 N31 Setor Centro Oeste , Goiânia - Go CEP.74550050",
           "mostrar_mensagemdeaviso": true,
-          "textdordp": "<p>EMPÓRIO BODY – 2024. Preços e condições de pagamento para a loja online são exclusivos para compras via internet. Caso os produtos apresentem divergências de valores, o preço válido é o do carrinho de compras. Vendas sujeitas a análise e confirmação de dados. Antes de comprar, saiba tudo sobre<a href=\"https:\/\/emporiobody.com.br\/central-do-cliente\/#troca\">trocas e devoluções.<\/a>Os descontos e promoções não são válidos para clientes atacadistas.<\/p>",
+          "textdordp": "<p>EMPÓRIO BODY – 2024. Preços e condições de pagamento para a loja online são exclusivos para compras via internet. Caso os produtos apresentem divergências de valores, o preço válido é o do carrinho de compras. Vendas sujeitas a análise e confirmação de dados. Antes de comprar, saiba tudo sobre<a href=\"https://emporiobody.com.br/central-do-cliente/#troca\">trocas e devoluções.</a>Os descontos e promoções não são válidos para clientes atacadistas.</p>",
           "mostrar_bandeiras_rdp": true,
           "txt_bandeiras": "Formas de pagamento",
           "bandeiras_type": "padrao",
@@ -270,7 +270,7 @@
           "show_locale_selector": false,
           "show_currency_selector": false,
           "show_cookie_bar": true,
-          "text": "<p>Utilizamos cookies para melhorar nosso site e sua experiência de compra. Ao continuar navegando em nosso site,<strong>você está de acordo conforme nossa política quando a utilização de cookies.<\/strong><\/p>",
+          "text": "<p>Utilizamos cookies para melhorar nosso site e sua experiência de compra. Ao continuar navegando em nosso site,<strong>você está de acordo conforme nossa política quando a utilização de cookies.</strong></p>",
           "accept_button": "ENTENDI E FECHAR"
         }
       },
@@ -280,8 +280,8 @@
           "image_m3g6aV": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Basic_colecao_1124_x_320_px.svg",
-              "mobile_image": "shopify:\/\/shop_images\/Basic_colecao_1100_x_1100_px.png",
+              "image": "shopify://shop_images/Basic_colecao_1124_x_320_px.svg",
+              "mobile_image": "shopify://shop_images/Basic_colecao_1100_x_1100_px.png",
               "show_overlay": false,
               "overlay_opacity": 6,
               "text_color": "#ffffff",
@@ -291,15 +291,15 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/collections\/basic"
+              "link": "shopify://collections/basic"
             }
           },
           "image_CRwDwa": {
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Semana_de_Descontos_1.png",
-              "mobile_image": "shopify:\/\/shop_images\/Semana_de_Descontos_1100_x_1100_px_1.png",
+              "image": "shopify://shop_images/Semana_de_Descontos_1.png",
+              "mobile_image": "shopify://shop_images/Semana_de_Descontos_1100_x_1100_px_1.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -309,14 +309,14 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/collections\/all"
+              "link": "shopify://collections/all"
             }
           },
           "image_rU3PHH": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_1024_x_320_px.svg",
-              "mobile_image": "shopify:\/\/shop_images\/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.gif",
+              "image": "shopify://shop_images/Copia_de_Banner_1024_x_320_px.svg",
+              "mobile_image": "shopify://shop_images/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.gif",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -326,14 +326,14 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/collections\/london"
+              "link": "shopify://collections/london"
             }
           },
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px.svg",
-              "mobile_image": "shopify:\/\/shop_images\/Post_Instagram_Academia_Mentalidade_Fitness_Azul_e_Rosa_2.gif",
+              "image": "shopify://shop_images/Banner_1124_x_320_px.svg",
+              "mobile_image": "shopify://shop_images/Post_Instagram_Academia_Mentalidade_Fitness_Azul_e_Rosa_2.gif",
               "show_overlay": false,
               "overlay_opacity": 33,
               "text_color": "#ffffff",
@@ -343,15 +343,15 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/collections\/fitness"
+              "link": "shopify://collections/fitness"
             }
           },
           "image_gAgiPF": {
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_1124_x_320_px.png",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_800_x_800_px.jpg",
+              "image": "shopify://shop_images/Banner_1124_x_320_px.png",
+              "mobile_image": "shopify://shop_images/Banner_800_x_800_px.jpg",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -361,14 +361,14 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/collections\/beachwaer-1"
+              "link": "shopify://collections/beachwaer-1"
             }
           },
           "image_g6TYVy": {
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Copia_de_a_vista_no_PIX_3.png",
+              "image": "shopify://shop_images/Copia_de_a_vista_no_PIX_3.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -378,7 +378,7 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/collections\/fitness"
+              "link": "shopify://collections/fitness"
             }
           }
         },
@@ -460,7 +460,7 @@
         "settings": {
           "title": "Our collections",
           "link_title": "View all",
-          "link": "shopify:\/\/collections",
+          "link": "shopify://collections",
           "round_images": true,
           "show_collection_title": true
         }
@@ -514,7 +514,7 @@
           "background_whatsapp_btn": "#ffffff",
           "txt_whatsapp_btn": "#0fb930",
           "wtspp_text": "Comprar pelo WhatsApp",
-          "whatsapplinknumber": "https:\/\/wa.me\/message\/AYJ45IUBHN64E1",
+          "whatsapplinknumber": "https://wa.me/message/AYJ45IUBHN64E1",
           "mostrar_pix": true,
           "pix": "5",
           "corbandeiras": "#52bf71",
@@ -579,7 +579,7 @@
           "show_newsletter": false,
           "newsletter_button": "",
           "newsletter_title": "Newsletter",
-          "newsletter_content": "<p>Se inscreva em nossa newsletter para receber as últimas promoções.<\/p>"
+          "newsletter_content": "<p>Se inscreva em nossa newsletter para receber as últimas promoções.</p>"
         }
       },
       "popups": {
@@ -614,7 +614,7 @@
             "settings": {
               "icon": "bi-mobile-payment",
               "title": "Compra Segura",
-              "content": "<p>Ambiente  seguro para pagamentos online<\/p>"
+              "content": "<p>Ambiente  seguro para pagamentos online</p>"
             }
           },
           "text-with-icons-0": {
@@ -622,7 +622,7 @@
             "settings": {
               "icon": "bi-fast-delivery",
               "title": "Frete Grátis",
-              "content": "<p>Envio rápido e acompanhado com código de rastreio<br\/><\/p>"
+              "content": "<p>Envio rápido e acompanhado com código de rastreio<br/></p>"
             }
           },
           "text-with-icons-2": {
@@ -630,7 +630,7 @@
             "settings": {
               "icon": "bi-love",
               "title": "Suporte Profissional",
-              "content": "<p>Equipe de suporte de extrema qualidade a semana toda<br\/><\/p>"
+              "content": "<p>Equipe de suporte de extrema qualidade a semana toda<br/></p>"
             }
           },
           "text-with-icons-1": {
@@ -638,7 +638,7 @@
             "settings": {
               "icon": "bi-returns",
               "title": "Satisfação ou Reembolso",
-              "content": "<p>Caso haja algo, devolvemos seu dinheiro com velocidade<\/p>"
+              "content": "<p>Caso haja algo, devolvemos seu dinheiro com velocidade</p>"
             }
           }
         },
@@ -724,7 +724,7 @@
         "settings": {
           "show_section": false,
           "title": "Subscribe to our newsletter",
-          "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+          "content": "<p>A short sentence describing what someone will receive by subscribing</p>",
           "subtext": "100% free, Unsubscribe any time!",
           "background": "#1e2d7d",
           "text": "#ffffff"
@@ -742,13 +742,13 @@
       "16494890143053ae61": {
         "type": "image-with-text",
         "settings": {
-          "image": "shopify:\/\/shop_images\/Copia_de_Vendedor_Fagner_5.png",
+          "image": "shopify://shop_images/Copia_de_Vendedor_Fagner_5.png",
           "image_position": "left",
           "image_width": 40,
           "title": "Pouco De Nós",
-          "content": "<p>Desenvolvidos para atender suas necessidades e prezar<br\/>pela satisfação e segurança entregando produtos da mais<br\/>alta qualidade da melhor forma possível!<\/p><p><em><strong>Quer saber mais sobre nós e nossa equipe?<\/strong><\/em><br\/>Clique no botão abaixo<\/p>",
+          "content": "<p>Desenvolvidos para atender suas necessidades e prezar<br/>pela satisfação e segurança entregando produtos da mais<br/>alta qualidade da melhor forma possível!</p><p><em><strong>Quer saber mais sobre nós e nossa equipe?</strong></em><br/>Clique no botão abaixo</p>",
           "button_text": "Saber mais sobre nós",
-          "button_link": "shopify:\/\/pages\/sobre-nos"
+          "button_link": "shopify://pages/sobre-nos"
         }
       },
       "1649489657b78ca727": {
@@ -758,42 +758,42 @@
             "type": "collection",
             "settings": {
               "collection": "london",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_45.png"
+              "image": "shopify://shop_images/Design_sem_nome_45.png"
             }
           },
           "0c56a93b-d66f-4823-ae91-bd01bb634a00": {
             "type": "collection",
             "settings": {
               "collection": "biquini",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_46.png"
+              "image": "shopify://shop_images/Design_sem_nome_46.png"
             }
           },
           "d5a5159b-779d-45d2-871b-4a5e622bb3b2": {
             "type": "collection",
             "settings": {
               "collection": "cropped",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_29.png"
+              "image": "shopify://shop_images/Design_sem_nome_29.png"
             }
           },
           "1649489657b78ca727-5": {
             "type": "collection",
             "settings": {
               "collection": "calca",
-              "image": "shopify:\/\/shop_images\/Banner_1080_x_1080_px_6.png"
+              "image": "shopify://shop_images/Banner_1080_x_1080_px_6.png"
             }
           },
           "1649489657b78ca727-1": {
             "type": "collection",
             "settings": {
               "collection": "body",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_47.png"
+              "image": "shopify://shop_images/Design_sem_nome_47.png"
             }
           },
           "1649489657b78ca727-0": {
             "type": "collection",
             "settings": {
               "collection": "fitness",
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_41_ae663aec-f0a5-48d6-b1ba-52159d394468.png"
+              "image": "shopify://shop_images/Design_sem_nome_41_ae663aec-f0a5-48d6-b1ba-52159d394468.png"
             }
           }
         },
@@ -813,7 +813,7 @@
           "title": "",
           "link_title": "Ver tudo",
           "collection_dm_new": true,
-          "link": "shopify:\/\/collections",
+          "link": "shopify://collections",
           "round_images": true,
           "show_collection_title": true
         }
@@ -824,7 +824,7 @@
           "1649913261818592e3-2": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_1.svg",
+              "image": "shopify://shop_images/Design_sem_nome_1.svg",
               "show_overlay": false,
               "overlay_opacity": 40,
               "stretch_image": true,
@@ -837,13 +837,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#1d1b1b",
               "button_text": "Ver mais",
-              "button_link": "shopify:\/\/collections\/beachwear"
+              "button_link": "shopify://collections/beachwear"
             }
           },
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Design_sem_nome.svg",
+              "image": "shopify://shop_images/Design_sem_nome.svg",
               "show_overlay": false,
               "overlay_opacity": 0,
               "stretch_image": true,
@@ -856,13 +856,13 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "Ver mais",
-              "button_link": "shopify:\/\/collections\/fitness"
+              "button_link": "shopify://collections/fitness"
             }
           },
           "1649913261818592e3-1": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Design_sem_nome_4.svg",
+              "image": "shopify://shop_images/Design_sem_nome_4.svg",
               "show_overlay": false,
               "overlay_opacity": 50,
               "stretch_image": true,
@@ -875,7 +875,7 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "Ver mais",
-              "button_link": "shopify:\/\/collections\/london"
+              "button_link": "shopify://collections/london"
             }
           }
         },
@@ -915,7 +915,7 @@
       "minimal-header": {
         "type": "minimal-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/LOGOMARCA_ISO_COLORIDO_ecc51cc9-6d7c-44e7-abfe-2dd750c53836.png",
+          "logo": "shopify://shop_images/LOGOMARCA_ISO_COLORIDO_ecc51cc9-6d7c-44e7-abfe-2dd750c53836.png",
           "logo_max_width": 175,
           "mobile_logo_max_width": 145
         }
@@ -925,9 +925,9 @@
         "settings": {
           "show_social_media": true,
           "heading": "Loja milionária em construção!",
-          "text": "<p>Para acessar e sentir o gostinho do sucesso, coloque a senha \"4321\".<\/p>",
+          "text": "<p>Para acessar e sentir o gostinho do sucesso, coloque a senha \"4321\".</p>",
           "show_newsletter_signup": false,
-          "newsletter_text": "<p>A short sentence describing what someone will receive by subscribing.<\/p>"
+          "newsletter_text": "<p>A short sentence describing what someone will receive by subscribing.</p>"
         }
       },
       "list-collections-template": {
@@ -945,8 +945,8 @@
           "image_rtr93g": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.svg",
-              "mobile_image": "shopify:\/\/shop_images\/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.svg",
+              "image": "shopify://shop_images/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.svg",
+              "mobile_image": "shopify://shop_images/Banner_Loja_Virtual_Festival_de_Ofertas_Colorido_Rosa_Azul.svg",
               "show_overlay": true,
               "overlay_opacity": 12,
               "text_color": "#ffffff",
@@ -956,7 +956,7 @@
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
-              "link": "shopify:\/\/pages\/atacado"
+              "link": "shopify://pages/atacado"
             }
           }
         },
@@ -1002,9 +1002,9 @@
         "settings": {
           "show_adbanner": true,
           "active_infinite_banner": true,
-          "ad_link": "shopify:\/\/collections\/all",
-          "desktop_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_5_30b404b7-9187-4f3d-bca7-1f7d836bf589.svg",
-          "mobile_banner": "shopify:\/\/shop_images\/Banner_Site_Black_Friday_moderno_preto_e_rosa_6.svg",
+          "ad_link": "shopify://collections/all",
+          "desktop_banner": "shopify://shop_images/Banner_Site_Black_Friday_moderno_preto_e_rosa_5_30b404b7-9187-4f3d-bca7-1f7d836bf589.svg",
+          "mobile_banner": "shopify://shop_images/Banner_Site_Black_Friday_moderno_preto_e_rosa_6.svg",
           "background1": "#ffffff",
           "background2": "#f9cac2",
           "background3": "#f9cac2"
@@ -1024,7 +1024,7 @@
     ],
     "blocks": {
       "4912811683585195618": {
-        "type": "shopify:\/\/apps\/smartpopup-promotion-popup\/blocks\/app-embed\/6b7effb0-33e7-433c-acc7-0a98ef2f9da6",
+        "type": "shopify://apps/smartpopup-promotion-popup/blocks/app-embed/6b7effb0-33e7-433c-acc7-0a98ef2f9da6",
         "disabled": true,
         "settings": {
           "popups": "{}",
@@ -1032,7 +1032,7 @@
         }
       },
       "11813581335429059158": {
-        "type": "shopify:\/\/apps\/whatsapp-chat-widget\/blocks\/app-embed\/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
+        "type": "shopify://apps/whatsapp-chat-widget/blocks/app-embed/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
         "disabled": false,
         "settings": {
           "show_on_desktop": true,
@@ -1088,9 +1088,9 @@
       "product_star_color": "#ffbd00",
       "addzap": true,
       "zapicon": true,
-      "imagezap": "shopify:\/\/shop_images\/super-oferta.png",
+      "imagezap": "shopify://shop_images/super-oferta.png",
       "numberzap": "5551984869182",
-      "titlezap": "Fale Conosco \n<span>\nO melhor suporte é com a Luky Ofertas!\n<\/span>",
+      "titlezap": "Fale Conosco \n<span>\nO melhor suporte é com a Luky Ofertas!\n</span>",
       "colorzap": "#ff7200",
       "chatzap": "Olá, estou aqui para te ajudar!",
       "digizap": "Digite sua mensagem...",
@@ -1111,7 +1111,7 @@
       "low_inventory_threshold": 0,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_free_shipping_threshold": false,
       "cart_free_shipping_threshold": "50",
       "share_image": "",
@@ -1163,7 +1163,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -1176,7 +1176,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -1291,7 +1291,7 @@
           "settings": {
             "title": "Our collections",
             "link_title": "View all",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         },
         "featured-product": {
@@ -1349,7 +1349,7 @@
             "text": "Announce something here",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         },
         "1542984811767": {
@@ -1366,7 +1366,7 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         },
         "1542984882560": {
@@ -1428,7 +1428,7 @@
       "low_inventory_threshold": 1,
       "show_reviews_badge": false,
       "cart_type": "drawer",
-      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_empty_button_link": "shopify://collections/all",
       "cart_show_free_shipping_threshold": true,
       "cart_free_shipping_threshold": "50",
       "checkout_logo_position": "center",
@@ -1465,7 +1465,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>"
               }
             },
             "footer-1": {
@@ -1478,7 +1478,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing</p>"
               }
             }
           },
@@ -1593,7 +1593,7 @@
           "settings": {
             "title": "Our collections",
             "link_title": "View all",
-            "link": "shopify:\/\/collections"
+            "link": "shopify://collections"
           }
         },
         "collection-template": {
@@ -1639,7 +1639,7 @@
             "text": "Announce something here",
             "newsletter_button": "Subscribe & Save",
             "newsletter_title": "Newsletter",
-            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing</p>"
           }
         },
         "1542984811767": {
