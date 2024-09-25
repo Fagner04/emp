@@ -9393,10 +9393,10 @@ background: linear-gradient(358deg, #392828, #589155);
 }
 
 .block-swatch__radio:checked + .block-swatch__item {
-  box-shadow: 0 0 20px 0px #595757;
-  border-color: #ff7317;
-  background: rgba(var(--accent-color-rgb), 0.06);
-  color: #000000;
+    box-shadow: 0 0 0px 2px #000000;
+    border-color: #ff0505;
+    background: rgb(255 77 46 / 45%);
+    color: #000000;
 }
 
 .block-swatch--disabled .block-swatch__item-text {
