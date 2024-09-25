@@ -277,6 +277,23 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "image_JNQazk": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/modinha_desktop.svg",
+              "mobile_image": "shopify://shop_images/Modinha_mobile.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Título do banner",
+              "content": "Descrição do banner",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Botão de ação",
+              "link": ""
+            }
+          },
           "image_m3g6aV": {
             "type": "image",
             "settings": {
@@ -296,6 +313,7 @@
           },
           "image_rU3PHH": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify://shop_images/Copia_de_Banner_1024_x_320_px.svg",
               "mobile_image": "shopify://shop_images/Copia_de_Banner_1024_x_320_px_1124_x_320_px_1.gif",
@@ -347,6 +365,7 @@
           }
         },
         "block_order": [
+          "image_JNQazk",
           "image_m3g6aV",
           "image_rU3PHH",
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
