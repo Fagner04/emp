@@ -520,7 +520,7 @@
           "selector_mode": "block",
           "color_mode": "block",
           "show_payment_button": false,
-          "image_size": "small",
+          "image_size": "large",
           "enable_image_zoom": false,
           "enable_video_looping": false,
           "zoom_effect": "inside",
