@@ -7938,7 +7938,12 @@ select::-ms-expand {
 
 /* Page description must be contained within a page__header, and has less spacing than page__content */
 .page__description {
-  margin: 10px 0 0 0;
+  color: #ffffff;
+    margin: 10px 0 0 0;
+    buffered-rendering: auto;
+    padding: 4px 21px;
+    background: #443c3c;
+    border-radius: 11px;
 }
 
 .page__button-action {
