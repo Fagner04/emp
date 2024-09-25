@@ -9389,7 +9389,7 @@ background: linear-gradient(358deg, #392828, #589155);
   border-radius: var(--border-radius-theme);
   vertical-align: middle;
   cursor: pointer;
-  box-shadow: 0 1px 1px rgb(239 12 12);
+  box-shadow: 1px 3px 2px #000000;
 }
 
 .block-swatch__radio:checked + .block-swatch__item {
