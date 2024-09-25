@@ -536,7 +536,7 @@
           "trust_title": "Pagamento Seguro",
           "show_payment_icons": true,
           "show_shipping_estimator": false,
-          "shipping_estimator_default_country": "",
+          "shipping_estimator_default_country": "EE",
           "show_refunds_policy": false
         }
       },
