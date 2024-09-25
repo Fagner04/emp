@@ -277,23 +277,6 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
-          "image_JNQazk": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/modinha_desktop.svg",
-              "mobile_image": "shopify://shop_images/Modinha_mobile.png",
-              "show_overlay": false,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": "shopify://collections/london"
-            }
-          },
           "image_gAgiPF": {
             "type": "image",
             "settings": {
@@ -309,6 +292,23 @@
               "button_text_color": "#000000",
               "button_text": "",
               "link": "shopify://collections/beachwaer-1"
+            }
+          },
+          "image_JNQazk": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/modinha_desktop.svg",
+              "mobile_image": "shopify://shop_images/Modinha_mobile.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify://collections/london"
             }
           },
           "image_m3g6aV": {
@@ -365,8 +365,8 @@
           }
         },
         "block_order": [
-          "image_JNQazk",
           "image_gAgiPF",
+          "image_JNQazk",
           "image_m3g6aV",
           "image_rU3PHH",
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d"
