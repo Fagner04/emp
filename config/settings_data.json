@@ -48,7 +48,7 @@
     "product_in_stock_color": "#b4b5b5",
     "product_low_stock_color": "#ff6d43",
     "product_sold_out_color": "#f84343",
-    "border_radius_theme": 16,
+    "border_radius_theme": 20,
     "border_radius_btn": 16,
     "mostrar_fretegratis1": false,
     "cordabarra": "#c97c5c",
