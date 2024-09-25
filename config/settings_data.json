@@ -333,7 +333,7 @@
             "type": "image",
             "settings": {
               "image": "shopify://shop_images/Banner_1124_x_320_px.svg",
-              "mobile_image": "shopify://shop_images/Post_Instagram_Academia_Mentalidade_Fitness_Azul_e_Rosa_2.gif",
+              "mobile_image": "shopify://shop_images/Banner_800_x_450_px_1100_x_1100_px_1.png",
               "show_overlay": false,
               "overlay_opacity": 33,
               "text_color": "#ffffff",
