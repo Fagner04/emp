@@ -477,7 +477,7 @@
         "type": "product-template",
         "settings": {
           "mostrar_frete1": false,
-          "selector_mode_background_shipping": "mod_1",
+          "selector_mode_background_shipping": "mod_2",
           "titulofrete": "Entrega via Correios©",
           "cordaborda": "#f0c032",
           "mostrar_frete2": true,
