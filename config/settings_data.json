@@ -9,7 +9,7 @@
 */
 {
   "current": {
-    "popup_home": true,
+    "popup_home": false,
     "popup_image": "shopify://shop_images/Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_3.svg",
     "img_popup": "shopify://collections/all",
     "cookie_time": 60,
