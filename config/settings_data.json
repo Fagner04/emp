@@ -332,7 +332,7 @@
             "type": "image",
             "disabled": true,
             "settings": {
-              "image": "shopify://shop_images/Copia_de_Banner_1024_x_320_px.svg",
+              "image": "shopify://shop_images/Colecao_arena_desktop.png",
               "mobile_image": "shopify://shop_images/Colecao_Arena_Mobile.png",
               "show_overlay": false,
               "overlay_opacity": 30,
