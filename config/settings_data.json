@@ -280,7 +280,7 @@
           "image_gAgiPF": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/Mykonos_desktop.png",
+              "image": "shopify://shop_images/Mykonos_desktop_1.svg",
               "mobile_image": "shopify://shop_images/Mykonos_mobile_1.png",
               "show_overlay": false,
               "overlay_opacity": 30,
