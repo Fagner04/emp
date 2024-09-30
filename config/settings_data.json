@@ -314,7 +314,7 @@
           "image_JNQazk": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/modinha_desktop.svg",
+              "image": "shopify://shop_images/modinha_desktop_1.svg",
               "mobile_image": "shopify://shop_images/Modinha_mobile.png",
               "show_overlay": false,
               "overlay_opacity": 30,
