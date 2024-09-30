@@ -331,7 +331,7 @@
           "image_m3g6aV": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/Basic_colecao_1124_x_320_px.svg",
+              "image": "shopify://shop_images/Basic_colecao_1124_x_320_px_1.png",
               "mobile_image": "shopify://shop_images/Basic_colecao_1100_x_1100_px.png",
               "show_overlay": false,
               "overlay_opacity": 6,
