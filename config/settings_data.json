@@ -857,32 +857,12 @@
               "button_text": "Ver mais",
               "button_link": "shopify://collections/london"
             }
-          },
-          "item_xzqkmV": {
-            "type": "item",
-            "settings": {
-              "image": "shopify://shop_images/Design_sem_nome_5_5e14c5be-57cf-4dcb-b4d7-99b425059d65.svg",
-              "show_overlay": false,
-              "overlay_opacity": 50,
-              "stretch_image": true,
-              "background": "#f9cac2",
-              "background2": "#f3f4f4",
-              "text_color": "#ffffff",
-              "title": "Seu título",
-              "content": "",
-              "content_position": "top_left",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "Saber mais",
-              "button_link": ""
-            }
           }
         },
         "block_order": [
           "1649913261818592e3-2",
           "1649913261818592e3-0",
-          "1649913261818592e3-1",
-          "item_xzqkmV"
+          "1649913261818592e3-1"
         ],
         "custom_css": [
 
