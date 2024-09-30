@@ -9,7 +9,7 @@
 */
 {
   "current": {
-    "popup_home": false,
+    "popup_home": true,
     "popup_image": "shopify://shop_images/Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_3.svg",
     "img_popup": "shopify://collections/all",
     "cookie_time": 60,
@@ -801,25 +801,6 @@
       "1649913261818592e3": {
         "type": "promotion-list",
         "blocks": {
-          "1649913261818592e3-2": {
-            "type": "item",
-            "settings": {
-              "image": "shopify://shop_images/Design_sem_nome_1.svg",
-              "show_overlay": false,
-              "overlay_opacity": 40,
-              "stretch_image": true,
-              "background": "#f9cac2",
-              "background2": "#9c8f8f",
-              "text_color": "#000000",
-              "title": "BEACHWEAR",
-              "content": "MODA PRAIA",
-              "content_position": "top_left",
-              "button_background": "#ffffff",
-              "button_text_color": "#1d1b1b",
-              "button_text": "Ver mais",
-              "button_link": "shopify://collections/beachwear"
-            }
-          },
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
@@ -837,6 +818,25 @@
               "button_text_color": "#000000",
               "button_text": "Ver mais",
               "button_link": "shopify://collections/fitness"
+            }
+          },
+          "1649913261818592e3-2": {
+            "type": "item",
+            "settings": {
+              "image": "shopify://shop_images/Design_sem_nome_1.svg",
+              "show_overlay": false,
+              "overlay_opacity": 40,
+              "stretch_image": true,
+              "background": "#f9cac2",
+              "background2": "#9c8f8f",
+              "text_color": "#000000",
+              "title": "BEACHWEAR",
+              "content": "MODA PRAIA",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#1d1b1b",
+              "button_text": "Ver mais",
+              "button_link": "shopify://collections/beachwear"
             }
           },
           "1649913261818592e3-1": {
@@ -860,8 +860,8 @@
           }
         },
         "block_order": [
-          "1649913261818592e3-2",
           "1649913261818592e3-0",
+          "1649913261818592e3-2",
           "1649913261818592e3-1"
         ],
         "custom_css": [
