@@ -297,8 +297,8 @@
           "image_rU3PHH": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/Colecao_arena_desktop.png",
-              "mobile_image": "shopify://shop_images/Colecao_Arena_Mobile.png",
+              "image": "shopify://shop_images/IMG_6250.png",
+              "mobile_image": "shopify://shop_images/IMG_6251.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
