@@ -277,6 +277,23 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "image_AE3LBD": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Colecao_Capri_Catalogo.svg",
+              "mobile_image": "shopify://shop_images/Colecao_Capri_Mobile.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Botão de ação",
+              "link": ""
+            }
+          },
           "image_rU3PHH": {
             "type": "image",
             "settings": {
@@ -365,6 +382,7 @@
           }
         },
         "block_order": [
+          "image_AE3LBD",
           "image_rU3PHH",
           "image_gAgiPF",
           "image_JNQazk",
