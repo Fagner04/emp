@@ -277,6 +277,23 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Colecao_Workout_desktop.svg",
+              "mobile_image": "shopify://shop_images/Colecao_Workout_mobile.png",
+              "show_overlay": false,
+              "overlay_opacity": 33,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify://collections/colecao-workout"
+            }
+          },
           "image_AE3LBD": {
             "type": "image",
             "settings": {
@@ -361,33 +378,15 @@
               "button_text": "",
               "link": "shopify://collections/basic"
             }
-          },
-          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify://shop_images/Colecao_Workout_desktop.svg",
-              "mobile_image": "shopify://shop_images/Colecao_Workout_mobile.png",
-              "show_overlay": false,
-              "overlay_opacity": 33,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": "shopify://collections/colecao-workout"
-            }
           }
         },
         "block_order": [
+          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
           "image_AE3LBD",
           "image_rU3PHH",
           "image_gAgiPF",
           "image_JNQazk",
-          "image_m3g6aV",
-          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d"
+          "image_m3g6aV"
         ],
         "custom_css": [
 
