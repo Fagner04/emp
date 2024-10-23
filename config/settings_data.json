@@ -1007,6 +1007,19 @@
           "background2": "#f9cac2",
           "background3": "#f9cac2"
         }
+      },
+      "featured_collection_cwcP6n": {
+        "type": "featured-collection",
+        "settings": {
+          "collection": "",
+          "title": "ULTIMO LANÇAMENTO",
+          "products_count": 50,
+          "layout": "vertical",
+          "stack_desktop": false,
+          "show_quick_buy": false,
+          "link_title": "Ver tudo",
+          "link_url": "shopify://collections/colecao-workout"
+        }
       }
     },
     "content_for_index": [
@@ -1018,7 +1031,8 @@
       "featured_collection_G43GCf",
       "16153539675ef431a7",
       "16494890143053ae61",
-      "slideshow_VWtgiT"
+      "slideshow_VWtgiT",
+      "featured_collection_cwcP6n"
     ],
     "blocks": {
       "4912811683585195618": {
