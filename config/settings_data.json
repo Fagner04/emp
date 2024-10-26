@@ -999,10 +999,10 @@
         "type": "barra-infinita",
         "settings": {
           "show_adbanner": true,
-          "active_infinite_banner": true,
+          "active_infinite_banner": false,
           "ad_link": "shopify://collections/all",
-          "desktop_banner": "shopify://shop_images/Banner_Site_Black_Friday_moderno_preto_e_rosa_5_30b404b7-9187-4f3d-bca7-1f7d836bf589.svg",
-          "mobile_banner": "shopify://shop_images/Banner_Site_Black_Friday_moderno_preto_e_rosa_6.svg",
+          "desktop_banner": "shopify://shop_images/Banner_frete_gratis_para_loja_online_de_roupas_7.svg",
+          "mobile_banner": "shopify://shop_images/Banner_frete_gratis_para_loja_online_de_roupas_5.svg",
           "background1": "#ffffff",
           "background2": "#f9cac2",
           "background3": "#f9cac2"
