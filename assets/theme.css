@@ -10712,10 +10712,10 @@ iframe {
   bottom: 0;
   left: 0;
   right: 0;
-  background: var(--accent-color);
-  height: 6px;
-  width: 90%;
-  border-radius: 10px;
+  background: linear-gradient(45deg, black, #ff7070);
+  height: 2px;
+  width: 102%;
+  border-radius: 12px;
 }
 
 
