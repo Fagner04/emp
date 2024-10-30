@@ -897,12 +897,12 @@
           "h2 {font-size: 19px;}"
         ],
         "settings": {
-          "collection": "colecao-workout",
+          "collection": "ultimas-novidades",
           "products_count": 28,
           "background1": "#f9cac2",
           "background2": "#f9cac2",
           "text_color": "#000000",
-          "title": "COLEÇÃO WORKOUT",
+          "title": "ULTIMAS NOVIDADES",
           "content": "Veja mais produtos relacionados clicando no botão abaixo",
           "button_background": "#ffffff",
           "button_text_color": "#000000",
