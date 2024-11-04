@@ -280,7 +280,7 @@
           "image_m3g6aV": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/Colecao_Upside_Desktop.png",
+              "image": "shopify://shop_images/Colecao_Upside_Desktop.svg",
               "mobile_image": "shopify://shop_images/Colecao_Upside_mobile.png",
               "show_overlay": false,
               "overlay_opacity": 6,
