@@ -7403,13 +7403,25 @@ select::-ms-expand {
   list-style: none;
 }
 
-.mobile-menu__nav-link {
+/* .mobile-menu__nav-link {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
   padding: 8px 0 7px 0;
+}  */
+
+.mobile-menu__nav-link {
+  display: flex;
+  width: 27%;
+  padding: 1px 0 2px 22px;
+  background: linear-gradient(45deg, #f4d8d8, #ffffff);
+  border-radius: 9px;
+  margin: 3px;
+  align-items: center;
 }
+
+
 
 .mobile-menu__back-button {
   display: block;
