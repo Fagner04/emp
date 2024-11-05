@@ -553,7 +553,7 @@
           "trust_title": "Pagamento Seguro",
           "show_payment_icons": true,
           "show_shipping_estimator": true,
-          "shipping_estimator_default_country": "",
+          "shipping_estimator_default_country": "Brasil",
           "show_refunds_policy": false
         }
       },
