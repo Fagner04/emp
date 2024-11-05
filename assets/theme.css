@@ -7419,6 +7419,7 @@ select::-ms-expand {
   border-radius: 9px;
   margin: 3px;
   align-items: center;
+  gap: 12px;
 }
 
 
