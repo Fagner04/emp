@@ -7413,7 +7413,7 @@ select::-ms-expand {
 
 .mobile-menu__nav-link {
   display: flex;
-  width: 50%;
+  width: 98%;
   padding: 1px 0 2px 22px;
   background: linear-gradient(109deg, #ffdada, #ffffff);
   border-radius: 9px;
