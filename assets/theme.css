@@ -7415,7 +7415,7 @@ select::-ms-expand {
   display: flex;
   width: 50%;
   padding: 1px 0 2px 22px;
-  background: linear-gradient(45deg, #f4d8d8, #ffffff);
+  background: linear-gradient(109deg, #ffdada, #ffffff);
   border-radius: 9px;
   margin: 3px;
   align-items: center;
