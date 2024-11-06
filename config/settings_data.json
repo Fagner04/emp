@@ -1007,32 +1007,6 @@
           "background2": "#f9cac2",
           "background3": "#f9cac2"
         }
-      },
-      "featured_product_Uipd9t": {
-        "type": "featured-product",
-        "settings": {
-          "product": "conjunto-burpee",
-          "title": "Featured product",
-          "link_title": "View details",
-          "link_url": "",
-          "show_vendor": false,
-          "show_sku": false,
-          "show_share_buttons": false,
-          "show_description": false,
-          "description_below_add_to_cart": false,
-          "selector_mode": "dropdown",
-          "color_mode": "color",
-          "show_quantity_selector": false,
-          "show_reviews_badge": false,
-          "show_payment_button": false,
-          "image_size": "small",
-          "enable_image_zoom": false,
-          "enable_video_looping": false,
-          "zoom_effect": "outside",
-          "carousel_effect": "fade",
-          "show_inventory_quantity": false,
-          "low_inventory_threshold": 1
-        }
       }
     },
     "content_for_index": [
@@ -1044,8 +1018,7 @@
       "featured_collection_G43GCf",
       "16153539675ef431a7",
       "16494890143053ae61",
-      "slideshow_VWtgiT",
-      "featured_product_Uipd9t"
+      "slideshow_VWtgiT"
     ],
     "blocks": {
       "4912811683585195618": {
