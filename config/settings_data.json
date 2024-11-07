@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "popup_home": false,
+    "popup_home": true,
     "popup_image": "shopify://shop_images/Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_3.svg",
     "img_popup": "shopify://collections/all",
     "cookie_time": 60,
@@ -241,9 +241,7 @@
           "92231aec-75ae-4f44-bb61-3900d99ba87b",
           "23b7e603-1746-4ba2-b8e6-5856acdfd7a5"
         ],
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "mostrar_cnpj": true,
           "cnpjaqui": "CNPJ :45.688.532/0001-00   Rua C-500 N31 Setor Centro Oeste , Goiânia - Go CEP.74550050",
@@ -388,9 +386,7 @@
           "image_gAgiPF",
           "image_JNQazk"
         ],
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "edge_to_edge": false,
           "section_size": "preserve_ratio",
@@ -601,8 +597,7 @@
         "block_order": [
           "2b3dee75-c47a-449e-a21f-1d3ef0366386"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "text-with-icons": {
         "type": "text-with-icons",
@@ -646,9 +641,7 @@
           "text-with-icons-2",
           "text-with-icons-1"
         ],
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "show_section": true,
           "stack_mobile": false
@@ -804,9 +797,7 @@
           "1649489657b78ca727-0"
         ],
         "disabled": true,
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "title": "",
           "link_title": "Ver tudo",
@@ -882,9 +873,7 @@
           "1649913261818592e3-2",
           "1649913261818592e3-1"
         ],
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "expand_items": false,
           "section_size": "small",
@@ -961,9 +950,7 @@
         "block_order": [
           "image_rtr93g"
         ],
-        "custom_css": [
-
-        ],
+        "custom_css": [],
         "settings": {
           "edge_to_edge": false,
           "section_size": "preserve_ratio",
@@ -1337,8 +1324,7 @@
         },
         "product-recommendations": {
           "type": "product-recommendations",
-          "settings": {
-          }
+          "settings": {}
         },
         "announcement-bar": {
           "type": "announcement-bar",
@@ -1627,8 +1613,7 @@
         },
         "product-recommendations": {
           "type": "product-recommendations",
-          "settings": {
-          }
+          "settings": {}
         },
         "announcement-bar": {
           "type": "announcement-bar",
