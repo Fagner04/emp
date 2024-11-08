@@ -977,7 +977,7 @@
           "products_count": 12,
           "layout": "vertical",
           "stack_desktop": false,
-          "show_quick_buy": true,
+          "show_quick_buy": false,
           "link_title": "Ver tudo",
           "link_url": ""
         }
