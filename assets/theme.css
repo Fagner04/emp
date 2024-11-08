@@ -130,6 +130,7 @@ h6:last-child {
  */
 img {
   max-width: 100%;
+  border-radius: 18px;
   height: auto;
   border-style: none;
   vertical-align: top;
