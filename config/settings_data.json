@@ -974,7 +974,7 @@
         "settings": {
           "collection": "pomo",
           "title": "Produto em ofertas",
-          "products_count": 12,
+          "products_count": 42,
           "layout": "vertical",
           "stack_desktop": false,
           "show_quick_buy": false,
