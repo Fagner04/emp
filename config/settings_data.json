@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "popup_home": true,
+    "popup_home": false,
     "popup_image": "shopify://shop_images/Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_3.svg",
     "img_popup": "shopify://collections/all",
     "cookie_time": 60,
@@ -977,7 +977,7 @@
           "products_count": 12,
           "layout": "vertical",
           "stack_desktop": false,
-          "show_quick_buy": false,
+          "show_quick_buy": true,
           "link_title": "Ver tudo",
           "link_url": ""
         }
@@ -985,7 +985,7 @@
       "barra-infinita": {
         "type": "barra-infinita",
         "settings": {
-          "show_adbanner": false,
+          "show_adbanner": true,
           "active_infinite_banner": false,
           "ad_link": "shopify://collections/all",
           "desktop_banner": "shopify://shop_images/Banner_frete_gratis_para_loja_online_de_roupas_27.svg",
