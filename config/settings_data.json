@@ -985,7 +985,7 @@
       "barra-infinita": {
         "type": "barra-infinita",
         "settings": {
-          "show_adbanner": true,
+          "show_adbanner": false,
           "active_infinite_banner": false,
           "ad_link": "shopify://collections/all",
           "desktop_banner": "shopify://shop_images/Banner_frete_gratis_para_loja_online_de_roupas_27.svg",
