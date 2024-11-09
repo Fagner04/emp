@@ -295,8 +295,7 @@
           "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/Colecao_Workout_desktop.svg",
-              "mobile_image": "shopify://shop_images/Colecao_Workout_mobile.png",
+              "image": "shopify://shop_images/banner_black_desktop.svg",
               "show_overlay": false,
               "overlay_opacity": 33,
               "text_color": "#ffffff",
