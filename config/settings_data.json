@@ -292,22 +292,6 @@
               "link": "shopify://collections/upside"
             }
           },
-          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/banner_black_desktop.svg",
-              "show_overlay": false,
-              "overlay_opacity": 33,
-              "text_color": "#ffffff",
-              "title": "",
-              "content": "",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "",
-              "link": "shopify://collections/pomo"
-            }
-          },
           "image_AE3LBD": {
             "type": "image",
             "settings": {
@@ -379,7 +363,6 @@
         },
         "block_order": [
           "image_m3g6aV",
-          "fa2eac7c-9fbf-4ea9-a172-eca738a9012d",
           "image_AE3LBD",
           "image_rU3PHH",
           "image_gAgiPF",
