@@ -868,12 +868,12 @@
           "h2 {font-size: 19px;}"
         ],
         "settings": {
-          "collection": "pomo",
+          "collection": "fitness",
           "products_count": 28,
           "background1": "#f9cac2",
           "background2": "#f9cac2",
           "text_color": "#000000",
-          "title": "PRODUTOS EM OFERTAS",
+          "title": "TODA COLECÇÃO FITNESS",
           "content": "Veja mais produtos relacionados clicando no botão abaixo",
           "button_background": "#ffffff",
           "button_text_color": "#000000",
@@ -953,7 +953,6 @@
       },
       "featured_collection_G43GCf": {
         "type": "featured-collection",
-        "disabled": true,
         "settings": {
           "collection": "pomo",
           "title": "Produto em ofertas",
@@ -983,9 +982,9 @@
       "slideshow",
       "1649913264519d35a7",
       "1649489657b78ca727",
+      "featured_collection_G43GCf",
       "16153541158fc73818",
       "1649913261818592e3",
-      "featured_collection_G43GCf",
       "16153539675ef431a7",
       "16494890143053ae61",
       "slideshow_VWtgiT"
