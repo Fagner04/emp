@@ -8758,7 +8758,7 @@ select::-ms-expand {
   font-weight: bold;
   padding:0; line-height: 60px!important;
   /* background: var(--btn-primary-color-buy); */
-background: linear-gradient(358deg, #392828, #589155);
+background: llinear-gradient(358deg, #392828, #f98484);
   border-radius: var(--border-radius-btn);
   color: var(--btn-primary-color-buy-text);
   transition: all .3s cubic-bezier(0.3, 0.01, 0.2, 1);
