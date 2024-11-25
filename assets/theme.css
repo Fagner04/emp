@@ -8086,7 +8086,7 @@ select::-ms-expand {
   width: 100vw;
   left: 0;
   top: 100%;
-  background: linear-gradient(45deg, #a97171, #cecece);
+  background: linear-gradient(45deg, #ffdddd, #ffffff);
   color: var(--text-color);
   z-index: 1;
   visibility: hidden;
