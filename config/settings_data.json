@@ -275,6 +275,23 @@
       "slideshow": {
         "type": "slideshow",
         "blocks": {
+          "image_cFbrbz": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Desktop_Celebration_Collection_1_2.png",
+              "mobile_image": "shopify://shop_images/Mobile_Celebration_Collection_1100_x_1100_px_2.png",
+              "show_overlay": false,
+              "overlay_opacity": 30,
+              "text_color": "#ffffff",
+              "title": "Título do banner",
+              "content": "Descrição do banner",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "Botão de ação",
+              "link": ""
+            }
+          },
           "image_m3g6aV": {
             "type": "image",
             "settings": {
@@ -359,32 +376,15 @@
               "button_text": "",
               "link": "shopify://collections/london"
             }
-          },
-          "image_cFbrbz": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/Desktop_Celebration_Collection_1_2.png",
-              "mobile_image": "shopify://shop_images/Mobile_Celebration_Collection_1100_x_1100_px_2.png",
-              "show_overlay": false,
-              "overlay_opacity": 30,
-              "text_color": "#ffffff",
-              "title": "Título do banner",
-              "content": "Descrição do banner",
-              "content_position": "middle_center",
-              "button_background": "#ffffff",
-              "button_text_color": "#000000",
-              "button_text": "Botão de ação",
-              "link": ""
-            }
           }
         },
         "block_order": [
+          "image_cFbrbz",
           "image_m3g6aV",
           "image_AE3LBD",
           "image_rU3PHH",
           "image_gAgiPF",
-          "image_JNQazk",
-          "image_cFbrbz"
+          "image_JNQazk"
         ],
         "custom_css": [],
         "settings": {
