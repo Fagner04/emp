@@ -328,6 +328,7 @@
           },
           "image_rU3PHH": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "image": "shopify://shop_images/Colecao_arena_desktop_1800_x_512_px.png",
               "mobile_image": "shopify://shop_images/IMG_6251.png",
