@@ -10,7 +10,7 @@
 {
   "current": {
     "popup_home": true,
-    "popup_image": "shopify://shop_images/Copia_de_Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa.svg",
+    "popup_image": "shopify://shop_images/Copia_de_Post_para_Instagram_Pagamento_via_PIX_Vinho_Amarelo_Rosa_1.svg",
     "img_popup": "shopify://collections/beachwear",
     "cookie_time": 60,
     "heading_color": "#000000",
@@ -188,7 +188,7 @@
           "background1": "#606160",
           "background2": "#ff5f5f",
           "background3": "#ff8d8d",
-          "background4": "#606160",
+          "background4": "#3a7c3a",
           "show_locale_selector": false,
           "show_currency_selector": false,
           "navigation_menu": "inicio",
