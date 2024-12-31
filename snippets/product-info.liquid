@@ -495,7 +495,7 @@
         {%- if product.template_suffix != 'contact' -%}
           {%- if selected_variant.available -%}
             {%- if product.template_suffix == 'pre-order' -%}
-              <button type="submit" class="product-form__add-button button button--primary btn-primary-buy" data-action="add-to-cart">{{ 'product.form.pre_order' | t }}</button>
+              <button type="submit" class="product-form__add-button button button--primary btn-primary-buy" data-action="add-to-cart"><i class="fa-solid fa-mug-saucer"></i>{{ 'product.form.pre_order' | t }}</button>
             {%- else -%}
               <button type="submit" class="product-form__add-button button button--primary btn-primary-buy" onclick="window.location.href='#anc_add'" data-action="add-to-cart">{{ 'product.form.add_to_cart' | t }}</button>
             
