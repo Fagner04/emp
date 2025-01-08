@@ -998,7 +998,7 @@
       "featured_collection_NaxHRH": {
         "type": "featured-collection",
         "settings": {
-          "collection": "",
+          "collection": "acessorios",
           "title": "ACESSÓRIOS",
           "products_count": 12,
           "layout": "vertical",
