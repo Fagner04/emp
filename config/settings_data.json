@@ -994,6 +994,19 @@
           "background2": "#f9cac2",
           "background3": "#f9cac2"
         }
+      },
+      "featured_collection_NaxHRH": {
+        "type": "featured-collection",
+        "settings": {
+          "collection": "",
+          "title": "ACESSÓRIOS",
+          "products_count": 12,
+          "layout": "vertical",
+          "stack_desktop": false,
+          "show_quick_buy": false,
+          "link_title": "Ver tudo",
+          "link_url": "shopify://collections/acessorios"
+        }
       }
     },
     "content_for_index": [
@@ -1003,6 +1016,7 @@
       "16153541158fc73818",
       "1649913261818592e3",
       "featured_collection_G43GCf",
+      "featured_collection_NaxHRH",
       "16153539675ef431a7",
       "16494890143053ae61",
       "slideshow_VWtgiT"
